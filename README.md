@@ -116,6 +116,15 @@ GitHub repo([ksbsjh74-code/mart-compare-mcp](https://github.com/ksbsjh74-code/ma
 - 무료 플랜은 트래픽 없으면 슬립 상태로 들어가고 첫 요청에 콜드스타트(수십 초)가 있을 수 있음 —
   실사용 트래픽이 생기면 유료 플랜(Starter, $7/월) 전환 고려
 
+**첫 배포 시 헬스체크가 계속 타임아웃났던 버그(수정 완료, 커밋 `d03db8c`)**: `src/index.ts`에서
+`@modelcontextprotocol/sdk`의 `createMcpExpressApp()`을 옵션 없이 호출하면 기본값이
+`host: '127.0.0.1'`인데, 이 경우 SDK가 DNS 리바인딩 방지 미들웨어를 자동으로 걸어서 `Host` 헤더가
+`localhost`/`127.0.0.1`/`[::1]`이 아닌 모든 요청을 403으로 거부한다. Render 헬스체크와 실제
+클라이언트 요청은 `Host: mart-compare-mcp.onrender.com`으로 들어오기 때문에 `/health`까지 같이
+막혀서, 앱은 로그상 정상적으로 포트에 바인딩됐는데도 배포가 계속 헬스체크 타임아웃으로 실패했다.
+`createMcpExpressApp({ host: "0.0.0.0" })`로 명시해서 해결함 — 공개 배포 환경에서 이 SDK를 쓸 때
+반드시 넣어야 하는 옵션이니, 나중에 다른 프로젝트에서도 같은 헬퍼를 쓴다면 주의할 것.
+
 ## 6. PlayMCP 등록 절차 (2026-08 기준 확인한 내용)
 
 1. §5에서 배포한 서버의 엔드포인트가 인터넷에서 접근 가능해야 함 (`/mcp` 경로가 POST를 받아야
@@ -133,6 +142,7 @@ GitHub repo([ksbsjh74-code/mart-compare-mcp](https://github.com/ksbsjh74-code/ma
 - [x] Dockerfile/render.yaml 작성
 - [x] GitHub repo 생성 + Render 배포 완료
 - [x] 가격 실시간 조회 API 조사 (네이버쇼핑 종료 확인, 쿠팡파트너스/11번가 검토 후 보류)
+- [x] 배포 후 헬스체크 타임아웃 버그 수정 + `/mcp` 실제 호출 검증 완료 (2026-08-25, 커밋 `d03db8c`)
 - [ ] PlayMCP 비공개 등록 → 본인 계정으로 실제 채팅에서 호출 테스트
 - [ ] egg 카테고리 재수집 (검색어 "달걀" 또는 FOOD_CAT1_NM 필터로 재시도)
 - [ ] (선택) 가격 실시간 조회 재도전 - 쿠팡파트너스 가입 심사 받고 시간당 10회 제한 감안한
