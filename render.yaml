@@ -6,11 +6,6 @@ services:
     plan: free
     healthCheckPath: /health
     envVars:
+      # 참고: 서버 런타임 자체엔 필요 없음 (ingest 스크립트는 로컬 전용). 편의상 등록해둔 값.
       - key: FOODSAFETY_API_KEY
-        sync: false
-      - key: NAVER_SHOPPING_CLIENT_ID
-        sync: false
-      - key: NAVER_SHOPPING_CLIENT_SECRET
-        sync: false
-      - key: RAKUTEN_APP_ID
         sync: false
