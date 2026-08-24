@@ -1,0 +1,6846 @@
+[
+  {
+    "id": "draft-P106-001000100-0002",
+    "name": "1등급 국산콩 두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.20",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.40",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 1등급 국산콩 두부 (FOOD_CD: P106-001000100-0002)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0003",
+    "name": "1등급콩 한컵 순두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "45.00",
+        "단백질(g)": "4.29",
+        "지방(g)": "2.28",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.34",
+        "나트륨(mg)": "18.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.15"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 1등급콩 한컵 순두부 (FOOD_CD: P106-001000100-0003)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0004",
+    "name": "60두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "83.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "2.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 60두부 (FOOD_CD: P106-001000100-0004)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0005",
+    "name": "1등급 콩으로 만든 100% 국산콩 순두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "45.00",
+        "단백질(g)": "4.29",
+        "지방(g)": "2.30",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.34",
+        "나트륨(mg)": "18.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.15"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 1등급 콩으로 만든 100% 국산콩 순두부 (FOOD_CD: P106-001000100-0005)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0006",
+    "name": "부드러운순두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "45.00",
+        "단백질(g)": "3.48",
+        "지방(g)": "2.56",
+        "탄수화물(g)": "2.12",
+        "당류(g)": "0.40",
+        "나트륨(mg)": "14.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 부드러운순두부 (FOOD_CD: P106-001000100-0006)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0007",
+    "name": "강릉심해 해양심층수 두부",
+    "brand": "㈜강릉심해두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "3.00",
+        "나트륨(mg)": "113.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 강릉심해 해양심층수 두부 (FOOD_CD: P106-001000100-0007)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0008",
+    "name": "강릉최가두부550",
+    "brand": "㈜강릉최가두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.50",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "2.00",
+        "나트륨(mg)": "205.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 강릉최가두부550 (FOOD_CD: P106-001000100-0008)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0009",
+    "name": "강릉최가두부900",
+    "brand": "㈜강릉최가두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.50",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "2.00",
+        "나트륨(mg)": "205.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 강릉최가두부900 (FOOD_CD: P106-001000100-0009)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0010",
+    "name": "고소미두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "6.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소미두부 (FOOD_CD: P106-001000100-0010)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0011",
+    "name": "고소하고 담백한 국산콩 두부두모",
+    "brand": "㈜신미씨앤에프",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소하고 담백한 국산콩 두부두모 (FOOD_CD: P106-001000100-0011)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0012",
+    "name": "고소하고 담백한 두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.55",
+        "탄수화물(g)": "2.63",
+        "당류(g)": "0.25",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.69"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소하고 담백한 두부 (FOOD_CD: P106-001000100-0012)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0014",
+    "name": "고소한 유기농두부 찌개용",
+    "brand": "풀무원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소한 유기농두부 찌개용 (FOOD_CD: P106-001000100-0014)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0015",
+    "name": "고소한두부",
+    "brand": "산에산푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "135.000",
+        "단백질(g)": "8.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "50.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소한두부 (FOOD_CD: P106-001000100-0015)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0016",
+    "name": "곰곰 1등급 국산콩 두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "8.70",
+        "지방(g)": "5.10",
+        "탄수화물(g)": "2.80",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 1등급 국산콩 두부 (FOOD_CD: P106-001000100-0016)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0017",
+    "name": "곰곰 1등급 우리콩 순두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "49.00",
+        "단백질(g)": "4.25",
+        "지방(g)": "2.50",
+        "탄수화물(g)": "2.25",
+        "당류(g)": "0.38",
+        "나트륨(mg)": "20.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.18"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 1등급 우리콩 순두부 (FOOD_CD: P106-001000100-0017)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0018",
+    "name": "곰곰 1등급콩 한컵 순두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "47.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.27",
+        "탄수화물(g)": "2.53",
+        "당류(g)": "0.67",
+        "나트륨(mg)": "23.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 1등급콩 한컵 순두부 (FOOD_CD: P106-001000100-0018)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0019",
+    "name": "국내산 연두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "48.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.48",
+        "탄수화물(g)": "2.32",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "20.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국내산 연두부 (FOOD_CD: P106-001000100-0019)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0020",
+    "name": "곰곰 국산콩 2컵두부",
+    "brand": "㈜맑은동해",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "93.00",
+        "단백질(g)": "7.73",
+        "지방(g)": "4.87",
+        "탄수화물(g)": "4.33",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.67"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 국산콩 2컵두부 (FOOD_CD: P106-001000100-0020)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0021",
+    "name": "곰곰 우리콩 두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.36",
+        "지방(g)": "4.98",
+        "탄수화물(g)": "2.91",
+        "당류(g)": "0.36",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 우리콩 두부 (FOOD_CD: P106-001000100-0021)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0022",
+    "name": "곰곰 우리콩두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "8.67",
+        "지방(g)": "5.07",
+        "탄수화물(g)": "2.87",
+        "당류(g)": "0.25",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.47"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 우리콩두부 (FOOD_CD: P106-001000100-0022)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0023",
+    "name": "곰곰 유기농 콩두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "82.00",
+        "단백질(g)": "6.93",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.83"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 유기농 콩두부 (FOOD_CD: P106-001000100-0023)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0024",
+    "name": "곰곰 콩두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.45",
+        "지방(g)": "4.73",
+        "탄수화물(g)": "3.18",
+        "당류(g)": "0.36",
+        "나트륨(mg)": "8.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 곰곰 콩두부 (FOOD_CD: P106-001000100-0024)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0025",
+    "name": "국산 무농약콩 강릉초당두부",
+    "brand": "강릉초당두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "8.30",
+        "지방(g)": "5.70",
+        "탄수화물(g)": "1.80",
+        "당류(g)": "0.20",
+        "나트륨(mg)": "86.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 무농약콩 강릉초당두부 (FOOD_CD: P106-001000100-0025)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0026",
+    "name": "국산 무농약콩 강릉초당순두부",
+    "brand": "강릉초당두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "38.00",
+        "단백질(g)": "3.10",
+        "지방(g)": "2.10",
+        "탄수화물(g)": "1.70",
+        "당류(g)": "0.40",
+        "나트륨(mg)": "156.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 무농약콩 강릉초당순두부 (FOOD_CD: P106-001000100-0026)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0027",
+    "name": "국산 무농약콩으로 만든 두부 부침용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 무농약콩으로 만든 두부 부침용 (FOOD_CD: P106-001000100-0027)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0028",
+    "name": "국산 무농약콩으로 만든 두부 찌개용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 무농약콩으로 만든 두부 찌개용 (FOOD_CD: P106-001000100-0028)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0029",
+    "name": "국산 무농약콩으로만든 손순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 무농약콩으로만든 손순두부 (FOOD_CD: P106-001000100-0029)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0030",
+    "name": "국산 연천콩 두부 부침용",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.80",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산 연천콩 두부 부침용 (FOOD_CD: P106-001000100-0030)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0031",
+    "name": "국산연천콩두부",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "91.00",
+        "단백질(g)": "7.59",
+        "지방(g)": "6.21",
+        "탄수화물(g)": "1.38",
+        "당류(g)": "1.03",
+        "식이섬유(g)": "0.30",
+        "나트륨(mg)": "3.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산연천콩두부 (FOOD_CD: P106-001000100-0031)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0032",
+    "name": "국산콩 네컵연두부",
+    "brand": "㈜풀잎라인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.44",
+        "지방(g)": "2.89",
+        "탄수화물(g)": "1.11",
+        "당류(g)": "0.83",
+        "나트륨(mg)": "11.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 네컵연두부 (FOOD_CD: P106-001000100-0032)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0035",
+    "name": "국산콩 진하게 갈아 만든 두부",
+    "brand": "㈜오성식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "88.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "44.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 진하게 갈아 만든 두부 (FOOD_CD: P106-001000100-0035)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0036",
+    "name": "국산콩 투컵두부 찌개용",
+    "brand": "풀무원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.80",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 투컵두부 찌개용 (FOOD_CD: P106-001000100-0036)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0037",
+    "name": "국산콩두부 부침용",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.80",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부 부침용 (FOOD_CD: P106-001000100-0037)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0038",
+    "name": "국산콩두부 찌개용",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "1.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부 찌개용 (FOOD_CD: P106-001000100-0038)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0039",
+    "name": "국산콩두부두모",
+    "brand": "대상㈜ 구미공장",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부두모 (FOOD_CD: P106-001000100-0039)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0040",
+    "name": "국산콩두부반모",
+    "brand": "대상㈜ 구미공장소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.50",
+        "지방(g)": "4.50",
+        "탄수화물(g)": "1.50",
+        "당류(g)": "0.38",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부반모 (FOOD_CD: P106-001000100-0040)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0041",
+    "name": "국산콩순두부",
+    "brand": "㈜피피이씨춘천",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "3.10",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "80.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩순두부 (FOOD_CD: P106-001000100-0041)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0042",
+    "name": "국산콩연두부",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "45.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.30",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "55.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩연두부 (FOOD_CD: P106-001000100-0042)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0043",
+    "name": "굿민 한끼 두부",
+    "brand": "㈜맑은동해",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 굿민 한끼 두부 (FOOD_CD: P106-001000100-0043)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0044",
+    "name": "김구원 선생 무농약콩으로 만든 순두부",
+    "brand": "성호",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "54.00",
+        "단백질(g)": "5.40",
+        "지방(g)": "2.79",
+        "탄수화물(g)": "2.66",
+        "당류(g)": "0.73",
+        "나트륨(mg)": "17.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.46"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 김구원 선생 무농약콩으로 만든 순두부 (FOOD_CD: P106-001000100-0044)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0045",
+    "name": "내린천 원당두부(부침용)",
+    "brand": "기린원당농협두부조합공동사업법인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.10",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 내린천 원당두부(부침용) (FOOD_CD: P106-001000100-0045)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0046",
+    "name": "내린천 원당두부(찌개용)",
+    "brand": "기린원당농협두부조합공동사업법인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "4.30",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 내린천 원당두부(찌개용) (FOOD_CD: P106-001000100-0046)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0047",
+    "name": "내린천 원당미니두부",
+    "brand": "기린원당농협두부조합공동사업법인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.10",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 내린천 원당미니두부 (FOOD_CD: P106-001000100-0047)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0048",
+    "name": "내린천원당순두부",
+    "brand": "기린원당농협두부조합공동사업법인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "37.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 내린천원당순두부 (FOOD_CD: P106-001000100-0048)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0049",
+    "name": "내린천원당연두부",
+    "brand": "기린원당농협두부조합공동사업법인",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "37.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 내린천원당연두부 (FOOD_CD: P106-001000100-0049)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0050",
+    "name": "넓은 두부면",
+    "brand": "풀무원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "165.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "2.00",
+        "나트륨(mg)": "260.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 넓은 두부면 (FOOD_CD: P106-001000100-0050)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0051",
+    "name": "농협 국산콩두부 부침용",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 농협 국산콩두부 부침용 (FOOD_CD: P106-001000100-0051)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0052",
+    "name": "농협국산콩두부 부침찌개겸용",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.20",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 농협국산콩두부 부침찌개겸용 (FOOD_CD: P106-001000100-0052)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0053",
+    "name": "단단하고맛있는두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.55",
+        "탄수화물(g)": "2.63",
+        "당류(g)": "0.25",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.69"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 단단하고맛있는두부 (FOOD_CD: P106-001000100-0053)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0054",
+    "name": "단단한 부침두부",
+    "brand": "(주)동화식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 단단한 부침두부 (FOOD_CD: P106-001000100-0054)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0055",
+    "name": "단단한 큰두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "7.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 단단한 큰두부 (FOOD_CD: P106-001000100-0055)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0056",
+    "name": "더맛있는용현손두부",
+    "brand": "용현농협콩행복나눔",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "96.00",
+        "단백질(g)": "12.40",
+        "지방(g)": "3.30",
+        "탄수화물(g)": "4.20",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "55.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 더맛있는용현손두부 (FOOD_CD: P106-001000100-0056)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0057",
+    "name": "두가지로 제대로 국산콩 두부 부침용",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 두가지로 제대로 국산콩 두부 부침용 (FOOD_CD: P106-001000100-0057)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0058",
+    "name": "두가지로 제대로 국산콩 두부 찌개용",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 두가지로 제대로 국산콩 두부 찌개용 (FOOD_CD: P106-001000100-0058)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0059",
+    "name": "두루두루 큰두부",
+    "brand": "㈜맑은동해",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 두루두루 큰두부 (FOOD_CD: P106-001000100-0059)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0060",
+    "name": "두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.50",
+        "지방(g)": "4.60",
+        "탄수화물(g)": "2.60",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "12.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 두부 (FOOD_CD: P106-001000100-0060)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0061",
+    "name": "딜리조이 고소한 국산콩 두부",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "74.00",
+        "단백질(g)": "5.93",
+        "지방(g)": "2.33",
+        "탄수화물(g)": "7.33",
+        "당류(g)": "0.40",
+        "나트륨(mg)": "9.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.77"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 딜리조이 고소한 국산콩 두부 (FOOD_CD: P106-001000100-0061)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0062",
+    "name": "리얼프라이스 국산콩 왕두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 리얼프라이스 국산콩 왕두부 (FOOD_CD: P106-001000100-0062)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0065",
+    "name": "맛이있는 순두부",
+    "brand": "양산두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "61.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "3.50",
+        "탄수화물(g)": "2.40",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "1.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 맛이있는 순두부 (FOOD_CD: P106-001000100-0065)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0066",
+    "name": "맛이있는 연두부",
+    "brand": "양산두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "5.30",
+        "지방(g)": "2.60",
+        "탄수화물(g)": "1.40",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 맛이있는 연두부 (FOOD_CD: P106-001000100-0066)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0067",
+    "name": "맛이있는 옛맛 손두부",
+    "brand": "양산두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "1.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 맛이있는 옛맛 손두부 (FOOD_CD: P106-001000100-0067)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0068",
+    "name": "맷돌로 갈아 만든 명품연두부",
+    "brand": "㈜정남식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "40.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.20",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "14.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 맷돌로 갈아 만든 명품연두부 (FOOD_CD: P106-001000100-0068)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0069",
+    "name": "맷돌로 갈아 만든 정남 명품 맛두부",
+    "brand": "㈜정남식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "84.00",
+        "단백질(g)": "9.30",
+        "지방(g)": "5.60",
+        "탄수화물(g)": "1.40",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 맷돌로 갈아 만든 정남 명품 맛두부 (FOOD_CD: P106-001000100-0069)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0070",
+    "name": "명인이 국산콩으로 만든 한끼 두부 부침용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 국산콩으로 만든 한끼 두부 부침용 (FOOD_CD: P106-001000100-0070)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0071",
+    "name": "명인이 국산콩으로 만든 한끼 두부 찌개용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 국산콩으로 만든 한끼 두부 찌개용 (FOOD_CD: P106-001000100-0071)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0072",
+    "name": "명인이 국산콩으로 만든 한끼 손순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 국산콩으로 만든 한끼 손순두부 (FOOD_CD: P106-001000100-0072)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0073",
+    "name": "명인이 국산콩으로 만든 한끼 순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.60",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 국산콩으로 만든 한끼 순두부 (FOOD_CD: P106-001000100-0073)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0074",
+    "name": "명인이 만든 넓은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "189.000",
+        "단백질(g)": "18.89",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "4.44",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 넓은 면두부 (FOOD_CD: P106-001000100-0074)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0075",
+    "name": "명인이 만든 더 넓은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "189.000",
+        "단백질(g)": "18.89",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "4.44",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 더 넓은 면두부 (FOOD_CD: P106-001000100-0075)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0076",
+    "name": "명인이 만든 얇은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "189.000",
+        "단백질(g)": "18.89",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "4.44",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 얇은 면두부 (FOOD_CD: P106-001000100-0076)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0077",
+    "name": "명인이 만든 투컵 국산콩 두부 부침용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 국산콩 두부 부침용 (FOOD_CD: P106-001000100-0077)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0078",
+    "name": "명인이 만든 투컵 국산콩 두부 찌개용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 국산콩 두부 찌개용 (FOOD_CD: P106-001000100-0078)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0079",
+    "name": "명인이 만든 투컵 국산콩 몽글 손순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 국산콩 몽글 손순두부 (FOOD_CD: P106-001000100-0079)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0080",
+    "name": "명인이 만든 투컵 국산콩 순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.60",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 국산콩 순두부 (FOOD_CD: P106-001000100-0080)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0081",
+    "name": "명인이 만든 투컵 넓은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 넓은 면두부 (FOOD_CD: P106-001000100-0081)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0082",
+    "name": "명인이 만든 투컵 더 넓은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 더 넓은 면두부 (FOOD_CD: P106-001000100-0082)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0083",
+    "name": "명인이 만든 투컵 사각 포두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 사각 포두부 (FOOD_CD: P106-001000100-0083)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0084",
+    "name": "명인이 만든 투컵 아주 넓은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 아주 넓은 면두부 (FOOD_CD: P106-001000100-0084)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0085",
+    "name": "명인이 만든 투컵 얇은 면두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 투컵 얇은 면두부 (FOOD_CD: P106-001000100-0085)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0086",
+    "name": "명인이 만든 포두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 만든 포두부 (FOOD_CD: P106-001000100-0086)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0087",
+    "name": "명인이 엄선된 국산콩으로만든 연두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "52.00",
+        "단백질(g)": "4.80",
+        "지방(g)": "2.96",
+        "탄수화물(g)": "2.40",
+        "당류(g)": "0.60",
+        "나트륨(mg)": "16.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 엄선된 국산콩으로만든 연두부 (FOOD_CD: P106-001000100-0087)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0088",
+    "name": "명인이 엄선된 국산콩으로만든 한끼 순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.67",
+        "지방(g)": "2.60",
+        "탄수화물(g)": "2.67",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "17.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 명인이 엄선된 국산콩으로만든 한끼 순두부 (FOOD_CD: P106-001000100-0088)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0089",
+    "name": "몽글몽글 순두부",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "41.00",
+        "단백질(g)": "3.43",
+        "지방(g)": "2.86",
+        "탄수화물(g)": "0.57",
+        "당류(g)": "0.57",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 몽글몽글 순두부 (FOOD_CD: P106-001000100-0089)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0090",
+    "name": "몽글몽글 옛 순두부",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "55.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.80",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "30.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 몽글몽글 옛 순두부 (FOOD_CD: P106-001000100-0090)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0091",
+    "name": "몽글이 순두부",
+    "brand": "농업회사법인㈜콩세알",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "60.00",
+        "단백질(g)": "5.70",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "2.70",
+        "당류(g)": "1.10",
+        "나트륨(mg)": "42.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 몽글이 순두부 (FOOD_CD: P106-001000100-0091)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0092",
+    "name": "무농약콩으로만든두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "81.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "4.50",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "2.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 무농약콩으로만든두부 (FOOD_CD: P106-001000100-0092)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0093",
+    "name": "물골안 통두부",
+    "brand": "물골안 F&B",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "84.00",
+        "단백질(g)": "8.10",
+        "지방(g)": "4.20",
+        "탄수화물(g)": "3.40",
+        "당류(g)": "0.80",
+        "나트륨(mg)": "97.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 물골안 통두부 (FOOD_CD: P106-001000100-0093)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0094",
+    "name": "부드러운 찌개두부",
+    "brand": "(주)동화식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 부드러운 찌개두부 (FOOD_CD: P106-001000100-0094)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0095",
+    "name": "부침두부",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.80",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 부침두부 (FOOD_CD: P106-001000100-0095)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0096",
+    "name": "부침에 좋은 맑은콩두부",
+    "brand": "㈜맑은물에",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "9.20",
+        "지방(g)": "4.75",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.18",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.37"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 부침에 좋은 맑은콩두부 (FOOD_CD: P106-001000100-0096)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0097",
+    "name": "산미르 검은깨 두부의미",
+    "brand": "(주)알찬식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "70.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.20",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "25.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 산미르 검은깨 두부의미 (FOOD_CD: P106-001000100-0097)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0098",
+    "name": "산미르 국산콩 두부의미",
+    "brand": "(주)알찬식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "70.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.20",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 산미르 국산콩 두부의미 (FOOD_CD: P106-001000100-0098)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0099",
+    "name": "산미르 맑은콩 두부의미",
+    "brand": "(주)알찬식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "70.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.20",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 산미르 맑은콩 두부의미 (FOOD_CD: P106-001000100-0099)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0100",
+    "name": "생명물두부 미니두부",
+    "brand": "신앙촌소비조합㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.64",
+        "지방(g)": "3.91",
+        "탄수화물(g)": "3.91",
+        "당류(g)": "0.55",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.55"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생명물두부 미니두부 (FOOD_CD: P106-001000100-0100)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0101",
+    "name": "생명물두부 생식·부침 겸용",
+    "brand": "신앙촌소비조합㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생명물두부 생식·부침 겸용 (FOOD_CD: P106-001000100-0101)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0102",
+    "name": "생명물두부 생식·찌개용",
+    "brand": "신앙촌소비조합㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "89.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생명물두부 생식·찌개용 (FOOD_CD: P106-001000100-0102)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0103",
+    "name": "생채움 국산콩두부 부침용",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 국산콩두부 부침용 (FOOD_CD: P106-001000100-0103)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0104",
+    "name": "생채움 국산콩두부 찌개/부침 겸용",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 국산콩두부 찌개/부침 겸용 (FOOD_CD: P106-001000100-0104)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0105",
+    "name": "생채움 국산콩두부 찌개용",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 국산콩두부 찌개용 (FOOD_CD: P106-001000100-0105)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0106",
+    "name": "생채움 단단한 맛있는 두부",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.30",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 단단한 맛있는 두부 (FOOD_CD: P106-001000100-0106)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0107",
+    "name": "생채움 맛있는두부",
+    "brand": "㈜오빌식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 맛있는두부 (FOOD_CD: P106-001000100-0107)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0108",
+    "name": "생채움 맛있는두부 부침용",
+    "brand": "㈜에스엔푸드",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 맛있는두부 부침용 (FOOD_CD: P106-001000100-0108)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0109",
+    "name": "생채움 맛있는두부 찌개용",
+    "brand": "에스앤푸드주식회사",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "110.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 생채움 맛있는두부 찌개용 (FOOD_CD: P106-001000100-0109)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0110",
+    "name": "세종두부사랑",
+    "brand": "세종두부사랑",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "13.00",
+        "지방(g)": "7.50",
+        "탄수화물(g)": "8.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "1.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 세종두부사랑 (FOOD_CD: P106-001000100-0110)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0111",
+    "name": "소이요 백태 전두부",
+    "brand": "유한회사 소미노",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "78.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "3.80",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "4.00",
+        "나트륨(mg)": "66.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 소이요 백태 전두부 (FOOD_CD: P106-001000100-0111)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0112",
+    "name": "수라청 안동두부 부침용",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "10.00",
+        "지방(g)": "2.10",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 수라청 안동두부 부침용 (FOOD_CD: P106-001000100-0112)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0113",
+    "name": "수라청 안동두부 찌개용",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "70.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "2.50",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 수라청 안동두부 찌개용 (FOOD_CD: P106-001000100-0113)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0114",
+    "name": "수라청 안동순두부",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.90",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 수라청 안동순두부 (FOOD_CD: P106-001000100-0114)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0116",
+    "name": "순두부 치즈 그라탕 볼로네제",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "105.000",
+        "단백질(g)": "6.77",
+        "지방(g)": "6.13",
+        "탄수화물(g)": "6.13",
+        "당류(g)": "2.90",
+        "식이섬유(g)": "0.60",
+        "나트륨(mg)": "335.000",
+        "포화지방산(g)": "11.29",
+        "트랜스지방산(g)": "2.26"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순두부 치즈 그라탕 볼로네제 (FOOD_CD: P106-001000100-0116)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0117",
+    "name": "순두부 치즈 그라탕 뽀모도로",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "88.00",
+        "단백질(g)": "5.63",
+        "지방(g)": "4.38",
+        "탄수화물(g)": "6.88",
+        "당류(g)": "4.69",
+        "식이섬유(g)": "0.60",
+        "나트륨(mg)": "428.000",
+        "포화지방산(g)": "6.25",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순두부 치즈 그라탕 뽀모도로 (FOOD_CD: P106-001000100-0117)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0118",
+    "name": "순두부그라탕 매콤불닭",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "127.000",
+        "단백질(g)": "7.20",
+        "지방(g)": "5.51",
+        "탄수화물(g)": "12.29",
+        "당류(g)": "6.36",
+        "식이섬유(g)": "0.40",
+        "나트륨(mg)": "301.000",
+        "포화지방산(g)": "6.36",
+        "트랜스지방산(g)": "2.12"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순두부그라탕 매콤불닭 (FOOD_CD: P106-001000100-0118)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0119",
+    "name": "순두부그라탕 클램차우더",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "106.000",
+        "단백질(g)": "4.49",
+        "지방(g)": "6.53",
+        "탄수화물(g)": "7.35",
+        "당류(g)": "3.27",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "241.000",
+        "포화지방산(g)": "6.12",
+        "트랜스지방산(g)": "3.27"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순두부그라탕 클램차우더 (FOOD_CD: P106-001000100-0119)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0120",
+    "name": "순수미두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "6.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순수미두부 (FOOD_CD: P106-001000100-0120)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0121",
+    "name": "시골두부 부침/찌개 겸용",
+    "brand": "에스앤푸드주식회사",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 시골두부 부침/찌개 겸용 (FOOD_CD: P106-001000100-0121)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0122",
+    "name": "시골손두부",
+    "brand": "두원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "70.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "3.50",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "6.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 시골손두부 (FOOD_CD: P106-001000100-0122)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0123",
+    "name": "식물성지구식단 두부면 넓은면",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "165.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "2.00",
+        "나트륨(mg)": "260.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 식물성지구식단 두부면 넓은면 (FOOD_CD: P106-001000100-0123)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0124",
+    "name": "식물성지구식단 두부면 얇은면",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "165.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "2.00",
+        "나트륨(mg)": "260.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 식물성지구식단 두부면 얇은면 (FOOD_CD: P106-001000100-0124)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0125",
+    "name": "쌈두부",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "170.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.50",
+        "나트륨(mg)": "250.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 쌈두부 (FOOD_CD: P106-001000100-0125)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0126",
+    "name": "아침에온국산콩고소한두부",
+    "brand": "대상㈜ 구미공장소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 아침에온국산콩고소한두부 (FOOD_CD: P106-001000100-0126)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0127",
+    "name": "아침에온장단콩국산두부",
+    "brand": "㈜오빌식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "35.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 아침에온장단콩국산두부 (FOOD_CD: P106-001000100-0127)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0128",
+    "name": "아침에온콩이가득두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 아침에온콩이가득두부 (FOOD_CD: P106-001000100-0128)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0129",
+    "name": "어깨동무 알찬콩 두부",
+    "brand": "㈜오성식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "76.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 어깨동무 알찬콩 두부 (FOOD_CD: P106-001000100-0129)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0130",
+    "name": "얼큰순두부찌개",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "44.00",
+        "단백질(g)": "3.00",
+        "지방(g)": "2.33",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "1.00",
+        "식이섬유(g)": "0.30",
+        "나트륨(mg)": "280.000",
+        "포화지방산(g)": "0.83",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 얼큰순두부찌개 (FOOD_CD: P106-001000100-0130)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0132",
+    "name": "연두부",
+    "brand": "주식회사 아워홈",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "45.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "1.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 연두부 (FOOD_CD: P106-001000100-0132)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0133",
+    "name": "옛두부",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "102.000",
+        "단백질(g)": "9.70",
+        "지방(g)": "6.36",
+        "탄수화물(g)": "1.82",
+        "당류(g)": "0.61",
+        "식이섬유(g)": "0.60",
+        "나트륨(mg)": "115.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 옛두부 (FOOD_CD: P106-001000100-0133)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0134",
+    "name": "유기농 두부 (부침용)",
+    "brand": "소이빈네이처",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "97.00",
+        "단백질(g)": "7.35",
+        "지방(g)": "6.47",
+        "탄수화물(g)": "2.35",
+        "당류(g)": "0.29",
+        "나트륨(mg)": "19.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.88"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유기농 두부 (부침용) (FOOD_CD: P106-001000100-0134)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0135",
+    "name": "유기농 두부 (찌개용)",
+    "brand": "소이빈네이처 제2공장",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "94.00",
+        "단백질(g)": "7.35",
+        "지방(g)": "6.47",
+        "탄수화물(g)": "2.06",
+        "당류(g)": "0.29",
+        "나트륨(mg)": "17.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.88"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유기농 두부 (찌개용) (FOOD_CD: P106-001000100-0135)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0136",
+    "name": "유기농 두부(부침용)",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.30",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.88"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유기농 두부(부침용) (FOOD_CD: P106-001000100-0136)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0137",
+    "name": "유기농 두부(찌개용)",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.30",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.30",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유기농 두부(찌개용) (FOOD_CD: P106-001000100-0137)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0138",
+    "name": "유기농두부",
+    "brand": "㈜오빌식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "105.000",
+        "단백질(g)": "7.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유기농두부 (FOOD_CD: P106-001000100-0138)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0140",
+    "name": "유어스 국산콩두부 찌개/부침겸용",
+    "brand": "에스앤푸드주식회사",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "20.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 유어스 국산콩두부 찌개/부침겸용 (FOOD_CD: P106-001000100-0140)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0141",
+    "name": "육개장순두부찌개",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "44.00",
+        "단백질(g)": "3.20",
+        "지방(g)": "2.31",
+        "탄수화물(g)": "2.67",
+        "당류(g)": "1.42",
+        "식이섬유(g)": "0.10",
+        "나트륨(mg)": "347.000",
+        "포화지방산(g)": "0.62",
+        "트랜스지방산(g)": "0.69"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 육개장순두부찌개 (FOOD_CD: P106-001000100-0141)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0142",
+    "name": "정통 된장 순두부 찌개",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "44.00",
+        "단백질(g)": "3.35",
+        "지방(g)": "2.35",
+        "탄수화물(g)": "2.85",
+        "당류(g)": "1.17",
+        "식이섬유(g)": "0.80",
+        "나트륨(mg)": "298.000",
+        "포화지방산(g)": "2.51",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 정통 된장 순두부 찌개 (FOOD_CD: P106-001000100-0142)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0143",
+    "name": "정통순두부찌개",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "41.00",
+        "단백질(g)": "2.99",
+        "지방(g)": "2.66",
+        "탄수화물(g)": "1.33",
+        "당류(g)": "0.83",
+        "식이섬유(g)": "0.30",
+        "나트륨(mg)": "327.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 정통순두부찌개 (FOOD_CD: P106-001000100-0143)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0144",
+    "name": "제주콩 두부",
+    "brand": "소이빈네이처 제2공장",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "87.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "6.67",
+        "탄수화물(g)": "2.33",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "12.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.83"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 제주콩 두부 (FOOD_CD: P106-001000100-0144)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0145",
+    "name": "즐거운 요리 두부(부침용)",
+    "brand": "주식회사 아워홈",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "10.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 즐거운 요리 두부(부침용) (FOOD_CD: P106-001000100-0145)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0146",
+    "name": "즐거운 요리두부(찌개용)",
+    "brand": "주식회사 아워홈",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "10.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 즐거운 요리두부(찌개용) (FOOD_CD: P106-001000100-0146)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0149",
+    "name": "즐거운동행 가벼운 고단백 쌈두부",
+    "brand": "㈜맑은물에",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "185.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 즐거운동행 가벼운 고단백 쌈두부 (FOOD_CD: P106-001000100-0149)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0150",
+    "name": "짬뽕순두부찌개",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "42.00",
+        "단백질(g)": "3.06",
+        "지방(g)": "1.87",
+        "탄수화물(g)": "3.23",
+        "당류(g)": "1.02",
+        "식이섬유(g)": "0.20",
+        "나트륨(mg)": "352.000",
+        "포화지방산(g)": "3.40",
+        "트랜스지방산(g)": "0.49"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 짬뽕순두부찌개 (FOOD_CD: P106-001000100-0150)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0151",
+    "name": "쫄면순두부찌개",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "79.00",
+        "단백질(g)": "3.29",
+        "지방(g)": "2.71",
+        "탄수화물(g)": "10.57",
+        "당류(g)": "1.14",
+        "식이섬유(g)": "0.40",
+        "나트륨(mg)": "303.000",
+        "포화지방산(g)": "0.71",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 쫄면순두부찌개 (FOOD_CD: P106-001000100-0151)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0152",
+    "name": "찌개두부",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.50",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 찌개두부 (FOOD_CD: P106-001000100-0152)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0153",
+    "name": "찌개에 좋은 맑은콩두부",
+    "brand": "㈜맑은물에",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "9.20",
+        "지방(g)": "4.75",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.18",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.37"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 찌개에 좋은 맑은콩두부 (FOOD_CD: P106-001000100-0153)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0155",
+    "name": "채움채두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "6.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 채움채두부 (FOOD_CD: P106-001000100-0155)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0156",
+    "name": "철원콩 100% 자누리골 수제 두부",
+    "brand": "자누리골 수제 두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "8.00",
+        "단백질(g)": "0.71",
+        "지방(g)": "0.46",
+        "탄수화물(g)": "0.23",
+        "당류(g)": "0.04",
+        "나트륨(mg)": "3.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.06"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 철원콩 100% 자누리골 수제 두부 (FOOD_CD: P106-001000100-0156)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0157",
+    "name": "초당두부",
+    "brand": "강릉초당두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "4.80",
+        "탄수화물(g)": "2.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "69.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 초당두부 (FOOD_CD: P106-001000100-0157)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0158",
+    "name": "촌두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "7.51",
+        "지방(g)": "4.20",
+        "탄수화물(g)": "3.20",
+        "당류(g)": "0.29",
+        "나트륨(mg)": "7.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 촌두부 (FOOD_CD: P106-001000100-0158)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0159",
+    "name": "콩이가득두부",
+    "brand": "㈜정남식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 콩이가득두부 (FOOD_CD: P106-001000100-0159)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0160",
+    "name": "크고 단단한 두부",
+    "brand": "(주)피피이씨",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "1.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 크고 단단한 두부 (FOOD_CD: P106-001000100-0160)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0161",
+    "name": "크고 단단한 두부 500g",
+    "brand": "풀무원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "95.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "식이섬유(g)": "0.50",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 크고 단단한 두부 500g (FOOD_CD: P106-001000100-0161)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0162",
+    "name": "키즈 연두부",
+    "brand": "풀무원식품㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "67.00",
+        "단백질(g)": "5.56",
+        "지방(g)": "3.78",
+        "탄수화물(g)": "2.22",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "56.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 키즈 연두부 (FOOD_CD: P106-001000100-0162)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0163",
+    "name": "파주장단콩 순두부",
+    "brand": "소이빈네이처 제2공장",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "39.00",
+        "단백질(g)": "2.57",
+        "지방(g)": "2.29",
+        "탄수화물(g)": "1.71",
+        "당류(g)": "0.86",
+        "나트륨(mg)": "7.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.29"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 파주장단콩 순두부 (FOOD_CD: P106-001000100-0163)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0164",
+    "name": "포두부 화이트",
+    "brand": "주식회사 아워홈",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "195.000",
+        "단백질(g)": "19.50",
+        "지방(g)": "11.50",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 포두부 화이트 (FOOD_CD: P106-001000100-0164)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0165",
+    "name": "푸른들고소한두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "6.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 푸른들고소한두부 (FOOD_CD: P106-001000100-0165)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0166",
+    "name": "푸른들고소한순두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "60.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.70",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "25.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "3.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 푸른들고소한순두부 (FOOD_CD: P106-001000100-0166)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0167",
+    "name": "푸른들연두부",
+    "brand": "푸른들영농조합",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "48.00",
+        "단백질(g)": "4.80",
+        "지방(g)": "2.96",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "20.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.56"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 푸른들연두부 (FOOD_CD: P106-001000100-0167)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0168",
+    "name": "하늘이 내린 넓은 면두부",
+    "brand": "농업회사법인 주식회사 라라스팜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "169.000",
+        "단백질(g)": "18.75",
+        "지방(g)": "7.50",
+        "탄수화물(g)": "6.25",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.25"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 하늘이 내린 넓은 면두부 (FOOD_CD: P106-001000100-0168)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0169",
+    "name": "하늘이 내린 두부",
+    "brand": "농업회사법인 주식회사 라라스팜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "68.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "1.10",
+        "탄수화물(g)": "5.50",
+        "당류(g)": "0.20",
+        "나트륨(mg)": "132.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 하늘이 내린 두부 (FOOD_CD: P106-001000100-0169)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0170",
+    "name": "하늘이 내린 면두부",
+    "brand": "농업회사법인 주식회사 라라스팜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "117.000",
+        "단백질(g)": "15.00",
+        "지방(g)": "3.30",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "74.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 하늘이 내린 면두부 (FOOD_CD: P106-001000100-0170)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0171",
+    "name": "하늘이 내린 쌈두부",
+    "brand": "농업회사법인 주식회사 라라스팜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "126.000",
+        "단백질(g)": "15.80",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "5.10",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "50.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 하늘이 내린 쌈두부 (FOOD_CD: P106-001000100-0171)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0172",
+    "name": "한끼 연두부",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "64.00",
+        "단백질(g)": "5.45",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "1.82",
+        "당류(g)": "0.68",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "32.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.73"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼 연두부 (FOOD_CD: P106-001000100-0172)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0173",
+    "name": "한끼두부 부침용",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "82.00",
+        "단백질(g)": "7.27",
+        "지방(g)": "5.45",
+        "탄수화물(g)": "1.82",
+        "당류(g)": "0.00",
+        "식이섬유(g)": "0.50",
+        "나트륨(mg)": "9.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.91"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부 부침용 (FOOD_CD: P106-001000100-0173)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0174",
+    "name": "한끼두부면 매콤라구파스타",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "9.09",
+        "탄수화물(g)": "6.82",
+        "당류(g)": "4.55",
+        "식이섬유(g)": "2.30",
+        "나트륨(mg)": "505.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.82"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부면 매콤라구파스타 (FOOD_CD: P106-001000100-0174)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0175",
+    "name": "한끼두부면 새콤달콤 김치렐리쉬",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "142.000",
+        "단백질(g)": "8.76",
+        "지방(g)": "7.66",
+        "탄수화물(g)": "10.95",
+        "당류(g)": "7.66",
+        "식이섬유(g)": "2.20",
+        "나트륨(mg)": "520.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.48"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부면 새콤달콤 김치렐리쉬 (FOOD_CD: P106-001000100-0175)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0176",
+    "name": "한끼두부면 생바질 파스타",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "10.63",
+        "지방(g)": "11.88",
+        "탄수화물(g)": "13.75",
+        "당류(g)": "10.00",
+        "식이섬유(g)": "1.90",
+        "나트륨(mg)": "463.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.13"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부면 생바질 파스타 (FOOD_CD: P106-001000100-0176)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0177",
+    "name": "한끼두부면 중화풍볶음면",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "141.000",
+        "단백질(g)": "8.18",
+        "지방(g)": "7.73",
+        "탄수화물(g)": "10.45",
+        "당류(g)": "6.82",
+        "식이섬유(g)": "1.80",
+        "나트륨(mg)": "595.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.32"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부면 중화풍볶음면 (FOOD_CD: P106-001000100-0177)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0178",
+    "name": "한끼두부면 직화짜장",
+    "brand": "㈜푸른촌",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "173.000",
+        "단백질(g)": "11.36",
+        "지방(g)": "10.91",
+        "탄수화물(g)": "8.64",
+        "당류(g)": "4.55",
+        "식이섬유(g)": "2.30",
+        "나트륨(mg)": "550.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼두부면 직화짜장 (FOOD_CD: P106-001000100-0178)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0179",
+    "name": "한끼몽글순두부 맑은순두부탕",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "55.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "1.00",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "330.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한끼몽글순두부 맑은순두부탕 (FOOD_CD: P106-001000100-0179)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0180",
+    "name": "한둘 무농약콩 연두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "52.00",
+        "단백질(g)": "4.80",
+        "지방(g)": "2.96",
+        "탄수화물(g)": "2.40",
+        "당류(g)": "0.60",
+        "나트륨(mg)": "16.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.32"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 무농약콩 연두부 (FOOD_CD: P106-001000100-0180)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0181",
+    "name": "한둘 무농약콩으로만든 한끼 손순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "5.00",
+        "지방(g)": "3.57",
+        "탄수화물(g)": "4.29",
+        "당류(g)": "0.54",
+        "나트륨(mg)": "4.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.64"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 무농약콩으로만든 한끼 손순두부 (FOOD_CD: P106-001000100-0181)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0182",
+    "name": "한둘 무농약콩으로만든 한끼두부 부침용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "8.33",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.58"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 무농약콩으로만든 한끼두부 부침용 (FOOD_CD: P106-001000100-0182)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0183",
+    "name": "한둘 무농약콩으로만든 한끼두부 찌개용",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "8.33",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.58"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 무농약콩으로만든 한끼두부 찌개용 (FOOD_CD: P106-001000100-0183)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0184",
+    "name": "한둘 손순두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 손순두부 (FOOD_CD: P106-001000100-0184)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0185",
+    "name": "한둘 연두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "52.00",
+        "단백질(g)": "4.80",
+        "지방(g)": "2.96",
+        "탄수화물(g)": "2.40",
+        "당류(g)": "0.60",
+        "나트륨(mg)": "16.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.32"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘 연두부 (FOOD_CD: P106-001000100-0185)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0186",
+    "name": "한둘두부",
+    "brand": "농업회사법인 한둘㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 한둘두부 (FOOD_CD: P106-001000100-0186)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0187",
+    "name": "햇살콩두부",
+    "brand": "㈜신미씨앤에프",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "3.30",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 햇살콩두부 (FOOD_CD: P106-001000100-0187)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0188",
+    "name": "행복한콩 단단한 부침용 두부",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 단단한 부침용 두부 (FOOD_CD: P106-001000100-0188)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0189",
+    "name": "행복한콩 부드러운 찌개용 두부",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "0.75",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 부드러운 찌개용 두부 (FOOD_CD: P106-001000100-0189)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0190",
+    "name": "행복한콩 순두부",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "60.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "2.60",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "25.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 순두부 (FOOD_CD: P106-001000100-0190)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0191",
+    "name": "행복한콩 유기농두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 유기농두부 (FOOD_CD: P106-001000100-0191)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0192",
+    "name": "행복한콩 청정 유기농두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 청정 유기농두부 (FOOD_CD: P106-001000100-0192)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0193",
+    "name": "행복한콩 촌두부",
+    "brand": "㈜맑은식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "105.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "11.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 행복한콩 촌두부 (FOOD_CD: P106-001000100-0193)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0194",
+    "name": "100% 안동콩을 사용해 전통방식 그대로 만든 고소한 두부는 배민이지",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "75.00",
+        "단백질(g)": "7.00",
+        "지방(g)": "2.40",
+        "탄수화물(g)": "6.00",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "7.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 100% 안동콩을 사용해 전통방식 그대로 만든 고소한 두부는 배민이지 (FOOD_CD: P106-001000100-0194)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0195",
+    "name": "MAXX알찬콩두모두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "83.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "2.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - MAXX알찬콩두모두부 (FOOD_CD: P106-001000100-0195)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0196",
+    "name": "강릉최가순두부 400",
+    "brand": "㈜강릉최가두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "39.00",
+        "단백질(g)": "3.20",
+        "지방(g)": "2.10",
+        "탄수화물(g)": "1.70",
+        "당류(g)": "0.40",
+        "나트륨(mg)": "156.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 강릉최가순두부 400 (FOOD_CD: P106-001000100-0196)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0197",
+    "name": "고단백 요리포두부",
+    "brand": "주식회사 아워홈",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "215.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "2.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고단백 요리포두부 (FOOD_CD: P106-001000100-0197)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0198",
+    "name": "고단백두부",
+    "brand": "주식회사 피피이씨의령",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.60",
+        "식이섬유(g)": "1.20",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고단백두부 (FOOD_CD: P106-001000100-0198)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0199",
+    "name": "고소한유기농순두부",
+    "brand": "㈜우천식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "30.00",
+        "단백질(g)": "2.50",
+        "지방(g)": "1.75",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "15.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소한유기농순두부 (FOOD_CD: P106-001000100-0199)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0200",
+    "name": "고인돌 청정두부",
+    "brand": "고창두부",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "102.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "261.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고인돌 청정두부 (FOOD_CD: P106-001000100-0200)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0201",
+    "name": "알뜰두부",
+    "brand": "㈜꿈꾸는콩",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "8.80",
+        "지방(g)": "7.20",
+        "탄수화물(g)": "3.80",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "7.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 알뜰두부 (FOOD_CD: P106-001000100-0201)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0202",
+    "name": "국내산콩으로 만든 순한두부",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "60.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "3.20",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "10.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국내산콩으로 만든 순한두부 (FOOD_CD: P106-001000100-0202)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0203",
+    "name": "국내산콩으로 만든 연한두부",
+    "brand": "안동농협 더햇식품사업소",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "50.00",
+        "단백질(g)": "4.00",
+        "지방(g)": "2.40",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국내산콩으로 만든 연한두부 (FOOD_CD: P106-001000100-0203)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0204",
+    "name": "국산콩 60두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "2.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 60두부 (FOOD_CD: P106-001000100-0204)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0205",
+    "name": "국산콩 두부",
+    "brand": "씨제이제일제당㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "65.00",
+        "단백질(g)": "6.50",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "0.50",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "3.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 두부 (FOOD_CD: P106-001000100-0205)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0206",
+    "name": "국산콩 몽글몽글 순두부",
+    "brand": "(주)제이에프",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "35.00",
+        "단백질(g)": "3.00",
+        "지방(g)": "1.40",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.50",
+        "나트륨(mg)": "30.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 몽글몽글 순두부 (FOOD_CD: P106-001000100-0206)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0207",
+    "name": "국산콩 큰두부",
+    "brand": "주식회사 피피이씨의령",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.70",
+        "식이섬유(g)": "0.70",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 큰두부 (FOOD_CD: P106-001000100-0207)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0208",
+    "name": "국산콩 프리미엄 맛두부",
+    "brand": "내포연식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "335.000",
+        "단백질(g)": "85.00",
+        "지방(g)": "4.70",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "0.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩 프리미엄 맛두부 (FOOD_CD: P106-001000100-0208)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0209",
+    "name": "국산콩두부",
+    "brand": "소이미푸드㈜",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "92.00",
+        "단백질(g)": "9.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "2.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부 (FOOD_CD: P106-001000100-0209)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0210",
+    "name": "국산콩두부",
+    "brand": "주식회사 피피이씨의령",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "85.00",
+        "단백질(g)": "8.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.70",
+        "식이섬유(g)": "0.70",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩두부 (FOOD_CD: P106-001000100-0210)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0211",
+    "name": "국산콩으로 갈아 만든 두부(부침용)",
+    "brand": "(주)동화식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "4.30",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩으로 갈아 만든 두부(부침용) (FOOD_CD: P106-001000100-0211)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P106-001000100-0212",
+    "name": "국산콩으로 갈아 만든 두부(찌개용)",
+    "brand": "(주)동화식품",
+    "country": "KR",
+    "category": "tofu",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "80.00",
+        "단백질(g)": "6.00",
+        "지방(g)": "4.30",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "1.00",
+        "나트륨(mg)": "5.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 국산콩으로 갈아 만든 두부(찌개용) (FOOD_CD: P106-001000100-0212)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  }
+]

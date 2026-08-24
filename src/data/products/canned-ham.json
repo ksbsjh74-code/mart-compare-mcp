@@ -1,0 +1,60 @@
+[
+  {
+    "id": "kr-ham-spam-classic",
+    "name": "스팸 클래식",
+    "brand": "CJ제일제당",
+    "country": "KR",
+    "category": "canned-ham",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량": "340kcal",
+        "나트륨": "1080mg",
+        "지방": "31g",
+        "콜레스테롤": "60mg"
+      }
+    },
+    "notes": [
+      "빽햄 대비 지방·콜레스테롤이 더 높고 나트륨은 더 낮음 (아래 기사 실측 비교 기준)",
+      "돈육 함량은 두 제품 간 약 7%p 차이가 있다는 보도가 있으나, 각 제품의 정확한 %는 원문에서 확인 안 됨 → needsVerification"
+    ],
+    "sources": [
+      {
+        "title": "'상술아녀유' 논란의 백종원 '빽햄'…스팸과 비교해보니 (네이트뉴스, 2025.02.02)",
+        "url": "https://news.nate.com/view/20250202n03103",
+        "checkedAt": "2026-08-21"
+      }
+    ],
+    "lastVerified": "2026-08-21",
+    "needsVerification": true
+  },
+  {
+    "id": "kr-ham-ppaek-ham",
+    "name": "빽햄",
+    "brand": "더본코리아",
+    "country": "KR",
+    "category": "canned-ham",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량": "295kcal",
+        "나트륨": "1210mg",
+        "지방": "27g",
+        "콜레스테롤": "45mg"
+      }
+    },
+    "notes": [
+      "스팸 대비 지방·콜레스테롤·열량은 낮지만 나트륨은 더 높음 (아래 기사 실측 비교 기준)",
+      "돈육 함량은 두 제품 간 약 7%p 차이가 있다는 보도가 있으나, 각 제품의 정확한 %는 원문에서 확인 안 됨 → needsVerification"
+    ],
+    "sources": [
+      {
+        "title": "'상술아녀유' 논란의 백종원 '빽햄'…스팸과 비교해보니 (네이트뉴스, 2025.02.02)",
+        "url": "https://news.nate.com/view/20250202n03103",
+        "checkedAt": "2026-08-21"
+      }
+    ],
+    "lastVerified": "2026-08-21",
+    "needsVerification": true
+  }
+]

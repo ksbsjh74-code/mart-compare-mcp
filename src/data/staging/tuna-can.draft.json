@@ -1,0 +1,6837 @@
+[
+  {
+    "id": "draft-P120-100010400-0016",
+    "name": "더킹 크랩스 참치마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "120.000",
+        "단백질(g)": "8.00",
+        "지방(g)": "2.00",
+        "탄수화물(g)": "17.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "900.000",
+        "포화지방산(g)": "15.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 더킹 크랩스 참치마요 (FOOD_CD: P120-100010400-0016)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-100010500-0007",
+    "name": "더블링참치마요",
+    "brand": "㈜진주햄",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "140.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "12.00",
+        "당류(g)": "1.20",
+        "나트륨(mg)": "480.000",
+        "포화지방산(g)": "20.00",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 더블링참치마요 (FOOD_CD: P120-100010500-0007)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-100010500-0026",
+    "name": "리얼킹참치",
+    "brand": "(주)동원에프앤비",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "175.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "7.50",
+        "탄수화물(g)": "15.00",
+        "당류(g)": "5.00",
+        "나트륨(mg)": "575.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 리얼킹참치 (FOOD_CD: P120-100010500-0026)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-104010400-0256",
+    "name": "참치어묵 매콤청양",
+    "brand": "㈜사조대림",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "180.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "7.80",
+        "탄수화물(g)": "16.00",
+        "당류(g)": "2.00",
+        "나트륨(mg)": "1,140.000",
+        "포화지방산(g)": "20.00",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치어묵 매콤청양 (FOOD_CD: P120-104010400-0256)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-104010400-0257",
+    "name": "참치어묵 오리지널",
+    "brand": "㈜사조대림",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "8.20",
+        "탄수화물(g)": "16.00",
+        "당류(g)": "2.00",
+        "나트륨(mg)": "1,180.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치어묵 오리지널 (FOOD_CD: P120-104010400-0257)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0001",
+    "name": "가벼운 참치 고추",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "11.11",
+        "지방(g)": "1.63",
+        "탄수화물(g)": "10.37",
+        "당류(g)": "5.19",
+        "나트륨(mg)": "578.000",
+        "포화지방산(g)": "18.52",
+        "트랜스지방산(g)": "0.52"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 고추 (FOOD_CD: P120-113010600-0001)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0002",
+    "name": "가벼운 참치 김치찌개용",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "133.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "3.70",
+        "탄수화물(g)": "5.19",
+        "당류(g)": "2.22",
+        "나트륨(mg)": "667.000",
+        "포화지방산(g)": "25.93",
+        "트랜스지방산(g)": "0.89"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 김치찌개용 (FOOD_CD: P120-113010600-0002)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0003",
+    "name": "가벼운 참치 더마일드",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "122.000",
+        "단백질(g)": "18.52",
+        "지방(g)": "3.56",
+        "탄수화물(g)": "3.70",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "370.000",
+        "포화지방산(g)": "29.63",
+        "트랜스지방산(g)": "0.89"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 더마일드 (FOOD_CD: P120-113010600-0003)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0004",
+    "name": "가벼운 참치 라이트스탠다드",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "144.000",
+        "단백질(g)": "19.26",
+        "지방(g)": "6.67",
+        "탄수화물(g)": "1.48",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "252.000",
+        "포화지방산(g)": "25.93",
+        "트랜스지방산(g)": "1.56"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 라이트스탠다드 (FOOD_CD: P120-113010600-0004)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0005",
+    "name": "가벼운 참치 야채",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "96.00",
+        "단백질(g)": "11.11",
+        "지방(g)": "1.41",
+        "탄수화물(g)": "9.63",
+        "당류(g)": "4.44",
+        "나트륨(mg)": "444.000",
+        "포화지방산(g)": "14.81",
+        "트랜스지방산(g)": "0.52"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 야채 (FOOD_CD: P120-113010600-0005)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0006",
+    "name": "고추참치",
+    "brand": "신진물산주식회사",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "170.000",
+        "단백질(g)": "13.33",
+        "지방(g)": "8.67",
+        "탄수화물(g)": "10.00",
+        "당류(g)": "10.00",
+        "나트륨(mg)": "260.000",
+        "포화지방산(g)": "16.67",
+        "트랜스지방산(g)": "2.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고추참치 (FOOD_CD: P120-113010600-0006)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0007",
+    "name": "남쪽바다 원래참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "209.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "130.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 남쪽바다 원래참치 (FOOD_CD: P120-113010600-0007)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0008",
+    "name": "동원 고추참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "129.000",
+        "단백질(g)": "10.59",
+        "지방(g)": "4.59",
+        "탄수화물(g)": "11.76",
+        "당류(g)": "8.24",
+        "나트륨(mg)": "706.000",
+        "포화지방산(g)": "41.18",
+        "트랜스지방산(g)": "0.94"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 고추참치 (FOOD_CD: P120-113010600-0008)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0009",
+    "name": "동원 김치참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "117.000",
+        "단백질(g)": "11.11",
+        "지방(g)": "5.33",
+        "탄수화물(g)": "6.67",
+        "당류(g)": "3.33",
+        "나트륨(mg)": "878.000",
+        "포화지방산(g)": "44.44",
+        "트랜스지방산(g)": "0.56"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 김치참치 (FOOD_CD: P120-113010600-0009)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0010",
+    "name": "동원 야채참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "160.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "280.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 야채참치 (FOOD_CD: P120-113010600-0010)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0011",
+    "name": "동원마일드참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "135.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원마일드참치 (FOOD_CD: P120-113010600-0011)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0012",
+    "name": "동원매운 고추참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "130.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "4.50",
+        "탄수화물(g)": "10.00",
+        "당류(g)": "10.00",
+        "나트륨(mg)": "680.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원매운 고추참치 (FOOD_CD: P120-113010600-0012)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0013",
+    "name": "동원참치 김치찌개용",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "135.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "710.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 김치찌개용 (FOOD_CD: P120-113010600-0013)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0014",
+    "name": "동원참치 라이트스탠다드",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "212.000",
+        "단백질(g)": "18.82",
+        "지방(g)": "15.29",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "412.000",
+        "포화지방산(g)": "47.06",
+        "트랜스지방산(g)": "1.29"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 라이트스탠다드 (FOOD_CD: P120-113010600-0014)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0015",
+    "name": "동원참치 살코기",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 살코기 (FOOD_CD: P120-113010600-0015)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0016",
+    "name": "동원참치 스프레드 고소마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "290.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "25.00",
+        "탄수화물(g)": "6.00",
+        "당류(g)": "6.00",
+        "나트륨(mg)": "660.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "3.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 스프레드 고소마요 (FOOD_CD: P120-113010600-0016)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0017",
+    "name": "동원참치 콘",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "188.000",
+        "단백질(g)": "12.94",
+        "지방(g)": "11.76",
+        "탄수화물(g)": "8.24",
+        "당류(g)": "7.06",
+        "나트륨(mg)": "329.000",
+        "포화지방산(g)": "47.06",
+        "트랜스지방산(g)": "1.18"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 콘 (FOOD_CD: P120-113010600-0017)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0018",
+    "name": "동원참치 쿡 미역국용",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "13.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "920.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 쿡 미역국용 (FOOD_CD: P120-113010600-0018)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0019",
+    "name": "동원참치 쿡 짜글이용",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "170.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "10.00",
+        "당류(g)": "5.00",
+        "나트륨(mg)": "820.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 쿡 짜글이용 (FOOD_CD: P120-113010600-0019)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0020",
+    "name": "동원참치 큐브 고소로제",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "230.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "14.00",
+        "탄수화물(g)": "15.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "850.000",
+        "포화지방산(g)": "19.00",
+        "트랜스지방산(g)": "1.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 큐브 고소로제 (FOOD_CD: P120-113010600-0020)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0021",
+    "name": "동원참치 큐브 매콤고추",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "160.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "15.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "800.000",
+        "포화지방산(g)": "14.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 큐브 매콤고추 (FOOD_CD: P120-113010600-0021)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0022",
+    "name": "동원참치 큐브 볼케이노",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "185.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "7.00",
+        "탄수화물(g)": "19.00",
+        "당류(g)": "11.00",
+        "나트륨(mg)": "520.000",
+        "포화지방산(g)": "16.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 큐브 볼케이노 (FOOD_CD: P120-113010600-0022)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0023",
+    "name": "동원참치 큐브 오리지널",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "140.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "20.00",
+        "트랜스지방산(g)": "0.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 큐브 오리지널 (FOOD_CD: P120-113010600-0023)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0024",
+    "name": "동원참치DHA",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치DHA (FOOD_CD: P120-113010600-0024)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0025",
+    "name": "마일드참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "141.000",
+        "단백질(g)": "18.52",
+        "지방(g)": "7.41",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "415.000",
+        "포화지방산(g)": "48.15",
+        "트랜스지방산(g)": "1.48"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 마일드참치 (FOOD_CD: P120-113010600-0025)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0026",
+    "name": "미니언즈 고추참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "135.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "12.00",
+        "당류(g)": "10.00",
+        "나트륨(mg)": "670.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 미니언즈 고추참치 (FOOD_CD: P120-113010600-0026)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0027",
+    "name": "미니언즈 짜장참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "16.00",
+        "당류(g)": "9.00",
+        "나트륨(mg)": "730.000",
+        "포화지방산(g)": "15.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 미니언즈 짜장참치 (FOOD_CD: P120-113010600-0027)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0028",
+    "name": "미니언즈 카레참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "90.00",
+        "단백질(g)": "12.00",
+        "지방(g)": "2.00",
+        "탄수화물(g)": "6.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "660.000",
+        "포화지방산(g)": "15.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 미니언즈 카레참치 (FOOD_CD: P120-113010600-0028)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0029",
+    "name": "사조 더매운고추참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "140.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "12.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "600.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "0.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 더매운고추참치 (FOOD_CD: P120-113010600-0029)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0031",
+    "name": "사조 프리미엄 마라 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "6.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "910.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 프리미엄 마라 참치 (FOOD_CD: P120-113010600-0031)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0032",
+    "name": "사조 프리미엄 알바코 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "190.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 프리미엄 알바코 참치 (FOOD_CD: P120-113010600-0032)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0033",
+    "name": "사조 프리미엄 트러플 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "215.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "16.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "250.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 프리미엄 트러플 참치 (FOOD_CD: P120-113010600-0033)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0034",
+    "name": "사조 프리미엄 황다랑어 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "240.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "19.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "350.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 프리미엄 황다랑어 참치 (FOOD_CD: P120-113010600-0034)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0035",
+    "name": "사조마일드참치안심따개",
+    "brand": "사조산업㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "153.000",
+        "단백질(g)": "18.82",
+        "지방(g)": "8.24",
+        "탄수화물(g)": "1.18",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "52.94",
+        "트랜스지방산(g)": "0.71"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조마일드참치안심따개 (FOOD_CD: P120-113010600-0035)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0036",
+    "name": "사조바베큐맛참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "135.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "2.00",
+        "탄수화물(g)": "18.00",
+        "당류(g)": "10.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "0.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조바베큐맛참치 안심따개 (FOOD_CD: P120-113010600-0036)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0037",
+    "name": "사조살코기플러스참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "119.000",
+        "단백질(g)": "17.33",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "3.33",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "386.000",
+        "포화지방산(g)": "26.00",
+        "트랜스지방산(g)": "0.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기플러스참치 안심따개 (FOOD_CD: P120-113010600-0037)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0038",
+    "name": "사조야채참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "136.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "14.00",
+        "당류(g)": "7.00",
+        "나트륨(mg)": "420.000",
+        "포화지방산(g)": "15.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조야채참치 안심따개 (FOOD_CD: P120-113010600-0038)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0039",
+    "name": "사조찌개전용참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "187.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "530.000",
+        "포화지방산(g)": "19.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조찌개전용참치 안심따개 (FOOD_CD: P120-113010600-0039)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0040",
+    "name": "살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "183.000",
+        "단백질(g)": "15.33",
+        "지방(g)": "12.67",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "320.000",
+        "포화지방산(g)": "46.67",
+        "트랜스지방산(g)": "4.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 (FOOD_CD: P120-113010600-0040)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0042",
+    "name": "스낵참치 상큼마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "245.000",
+        "단백질(g)": "8.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "13.00",
+        "당류(g)": "11.00",
+        "나트륨(mg)": "440.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "3.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 스낵참치 상큼마요 (FOOD_CD: P120-113010600-0042)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0043",
+    "name": "오뚜기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "18.52",
+        "지방(g)": "14.07",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "415.000",
+        "포화지방산(g)": "48.15",
+        "트랜스지방산(g)": "2.52"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오뚜기참치 (FOOD_CD: P120-113010600-0043)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0044",
+    "name": "오아시스 태평양참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "13.33",
+        "탄수화물(g)": "0.67",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "133.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오아시스 태평양참치 (FOOD_CD: P120-113010600-0044)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0045",
+    "name": "올리브 바질 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "20.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "380.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "8.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 올리브 바질 참치 (FOOD_CD: P120-113010600-0045)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0046",
+    "name": "자연드림 통참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "180.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "10.67",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "360.000",
+        "포화지방산(g)": "23.33",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 자연드림 통참치 (FOOD_CD: P120-113010600-0046)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0047",
+    "name": "자연드림고추참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "137.000",
+        "단백질(g)": "15.33",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "10.67",
+        "당류(g)": "6.67",
+        "나트륨(mg)": "373.000",
+        "포화지방산(g)": "16.67",
+        "트랜스지방산(g)": "0.67"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 자연드림고추참치 (FOOD_CD: P120-113010600-0047)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0048",
+    "name": "지중해의 카놀라유를 넣은 깔끔한 참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "220.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "16.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "413.000",
+        "포화지방산(g)": "46.67",
+        "트랜스지방산(g)": "1.53"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 지중해의 카놀라유를 넣은 깔끔한 참치 (FOOD_CD: P120-113010600-0048)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0049",
+    "name": "황다랑어로 만든 고추참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "9.33",
+        "지방(g)": "3.07",
+        "탄수화물(g)": "8.67",
+        "당류(g)": "7.33",
+        "나트륨(mg)": "740.000",
+        "포화지방산(g)": "26.67",
+        "트랜스지방산(g)": "0.87"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 황다랑어로 만든 고추참치 (FOOD_CD: P120-113010600-0049)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113010600-0050",
+    "name": "가벼운 참치 고추",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "100.000",
+        "단백질(g)": "11.11",
+        "지방(g)": "1.63",
+        "탄수화물(g)": "10.37",
+        "당류(g)": "5.19",
+        "식이섬유(g)": "0.00",
+        "나트륨(mg)": "578.000",
+        "콜레스테롤(mg)": "0.00",
+        "포화지방산(g)": "18.52",
+        "트랜스지방산(g)": "0.52"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 가벼운 참치 고추 (FOOD_CD: P120-113010600-0050)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113030100-0001",
+    "name": "참치육포",
+    "brand": "주식회사 한백푸드",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "324.000",
+        "단백질(g)": "46.70",
+        "지방(g)": "1.30",
+        "탄수화물(g)": "31.40",
+        "당류(g)": "18.80",
+        "나트륨(mg)": "232.000",
+        "포화지방산(g)": "115.400",
+        "트랜스지방산(g)": "0.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치육포 (FOOD_CD: P120-113030100-0001)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0001",
+    "name": "달콤한야채참치",
+    "brand": "오또기에스에프",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "117.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "5.22",
+        "탄수화물(g)": "8.89",
+        "당류(g)": "7.78",
+        "나트륨(mg)": "389.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "0.78"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 달콤한야채참치 (FOOD_CD: P120-113060000-0001)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0002",
+    "name": "담백한 살코기 참치",
+    "brand": "(주)이마트",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "189.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "11.11",
+        "탄수화물(g)": "2.22",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "478.000",
+        "포화지방산(g)": "35.56",
+        "트랜스지방산(g)": "0.78"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 담백한 살코기 참치 (FOOD_CD: P120-113060000-0002)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0003",
+    "name": "더참치 TO GO 레몬페퍼",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "86.00",
+        "단백질(g)": "15.71",
+        "지방(g)": "0.57",
+        "탄수화물(g)": "4.29",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "543.000",
+        "포화지방산(g)": "35.71",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 더참치 TO GO 레몬페퍼 (FOOD_CD: P120-113060000-0003)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0004",
+    "name": "더참치 TO GO 바베큐맛",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "150.000",
+        "단백질(g)": "17.14",
+        "지방(g)": "3.43",
+        "탄수화물(g)": "12.86",
+        "당류(g)": "12.86",
+        "나트륨(mg)": "671.000",
+        "포화지방산(g)": "64.29",
+        "트랜스지방산(g)": "0.43"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 더참치 TO GO 바베큐맛 (FOOD_CD: P120-113060000-0004)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0005",
+    "name": "동원 더참치TOGO 키즈",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "179.000",
+        "단백질(g)": "17.14",
+        "지방(g)": "11.43",
+        "탄수화물(g)": "1.43",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "443.000",
+        "포화지방산(g)": "42.86",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 더참치TOGO 키즈 (FOOD_CD: P120-113060000-0005)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0007",
+    "name": "동원 뽀로로 키즈참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "285.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "25.00",
+        "탄수화물(g)": "0.75",
+        "당류(g)": "0.75",
+        "나트륨(mg)": "510.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "2.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 뽀로로 키즈참치 (FOOD_CD: P120-113060000-0007)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0008",
+    "name": "동원참치 스프레드 매콤마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "255.000",
+        "단백질(g)": "8.00",
+        "지방(g)": "17.00",
+        "탄수화물(g)": "18.00",
+        "당류(g)": "8.00",
+        "나트륨(mg)": "810.000",
+        "포화지방산(g)": "21.00",
+        "트랜스지방산(g)": "2.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 스프레드 매콤마요 (FOOD_CD: P120-113060000-0008)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0011",
+    "name": "동원참치살코기(가다랑어2000)",
+    "brand": "(주)동원에프앤비",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "155.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치살코기(가다랑어2000) (FOOD_CD: P120-113060000-0011)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0012",
+    "name": "루피는참치마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "21.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "470.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "2.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 루피는참치마요 (FOOD_CD: P120-113060000-0012)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0013",
+    "name": "리오마레올리브오일참치필렛",
+    "brand": "(제조사 미기재 - 확인 필요)",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "363.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "31.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "520.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "4.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 리오마레올리브오일참치필렛 (FOOD_CD: P120-113060000-0013)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0014",
+    "name": "미소찬마일드참치",
+    "brand": "(제조사 미기재 - 확인 필요)",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "225.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "320.000",
+        "포화지방산(g)": "54.00",
+        "트랜스지방산(g)": "2.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 미소찬마일드참치 (FOOD_CD: P120-113060000-0014)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0015",
+    "name": "미소찬살코기참치",
+    "brand": "(제조사 미기재 - 확인 필요)",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "225.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "420.000",
+        "포화지방산(g)": "46.00",
+        "트랜스지방산(g)": "3.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 미소찬살코기참치 (FOOD_CD: P120-113060000-0015)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0016",
+    "name": "사조고추참치안심따개",
+    "brand": "사조산업㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "130.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "9.33",
+        "당류(g)": "8.00",
+        "나트륨(mg)": "560.000",
+        "포화지방산(g)": "36.67",
+        "트랜스지방산(g)": "0.73"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조고추참치안심따개 (FOOD_CD: P120-113060000-0016)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0017",
+    "name": "사조마일드참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "7.50",
+        "탄수화물(g)": "1.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조마일드참치 (FOOD_CD: P120-113060000-0017)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0019",
+    "name": "사조살코기참치",
+    "brand": "사조산업㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "257.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "19.33",
+        "탄수화물(g)": "1.33",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기참치 (FOOD_CD: P120-113060000-0019)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0020",
+    "name": "사조살코기참치안심따개",
+    "brand": "유성물산교역(주)",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "257.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "19.33",
+        "탄수화물(g)": "1.33",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기참치안심따개 (FOOD_CD: P120-113060000-0020)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0021",
+    "name": "오뚜기 간단한끼 볶음고추장 참치",
+    "brand": "오또기에스에프",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "239.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "14.44",
+        "탄수화물(g)": "16.67",
+        "당류(g)": "11.11",
+        "나트륨(mg)": "1,056.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "2.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오뚜기 간단한끼 볶음고추장 참치 (FOOD_CD: P120-113060000-0021)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0022",
+    "name": "오뚜기참치빅캔",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "187.000",
+        "단백질(g)": "17.98",
+        "지방(g)": "12.77",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "44.95",
+        "트랜스지방산(g)": "2.55"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오뚜기참치빅캔 (FOOD_CD: P120-113060000-0022)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0023",
+    "name": "바다품은 OSF 담백한 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "164.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.80",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "412.000",
+        "포화지방산(g)": "43.50",
+        "트랜스지방산(g)": "0.85"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 담백한 살코기참치 (FOOD_CD: P120-113060000-0023)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0024",
+    "name": "바다품은 OSF 살코기참치2000",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "168.000",
+        "단백질(g)": "18.80",
+        "지방(g)": "10.25",
+        "탄수화물(g)": "0.20",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "442.000",
+        "포화지방산(g)": "53.25",
+        "트랜스지방산(g)": "0.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 살코기참치2000 (FOOD_CD: P120-113060000-0024)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0025",
+    "name": "바다품은 OSF 해바라기유 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "194.000",
+        "단백질(g)": "19.73",
+        "지방(g)": "12.82",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "395.000",
+        "포화지방산(g)": "45.21",
+        "트랜스지방산(g)": "1.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 해바라기유 살코기참치 (FOOD_CD: P120-113060000-0025)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0026",
+    "name": "바다품은 OSF 해바라기유 살코기참치2000",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "169.000",
+        "단백질(g)": "15.60",
+        "지방(g)": "11.80",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "405.000",
+        "포화지방산(g)": "42.25",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 해바라기유 살코기참치2000 (FOOD_CD: P120-113060000-0026)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0027",
+    "name": "살코기 가벼운참치 더마일드",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "106.000",
+        "단백질(g)": "17.06",
+        "지방(g)": "4.12",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "529.000",
+        "포화지방산(g)": "41.18",
+        "트랜스지방산(g)": "1.53"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 가벼운참치 더마일드 (FOOD_CD: P120-113060000-0027)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0030",
+    "name": "삼포살코기 참치",
+    "brand": "농업회사법인주식회사정푸드코리아",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "164.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "368.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 삼포살코기 참치 (FOOD_CD: P120-113060000-0030)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0031",
+    "name": "두레생협 고추 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "106.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "4.56",
+        "탄수화물(g)": "6.67",
+        "당류(g)": "6.67",
+        "나트륨(mg)": "667.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "1.11"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 두레생협 고추 참치 (FOOD_CD: P120-113060000-0031)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0032",
+    "name": "담백한 야채 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "111.000",
+        "단백질(g)": "12.22",
+        "지방(g)": "5.44",
+        "탄수화물(g)": "3.33",
+        "당류(g)": "3.33",
+        "나트륨(mg)": "544.000",
+        "포화지방산(g)": "33.33",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 담백한 야채 참치 (FOOD_CD: P120-113060000-0032)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0033",
+    "name": "담백한 짜장 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "111.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "5.22",
+        "탄수화물(g)": "7.78",
+        "당류(g)": "4.44",
+        "나트륨(mg)": "600.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "1.11"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 담백한 짜장 참치 (FOOD_CD: P120-113060000-0033)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0034",
+    "name": "담백한 카레 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "111.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "4.78",
+        "탄수화물(g)": "7.78",
+        "당류(g)": "5.56",
+        "나트륨(mg)": "589.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "1.11"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 담백한 카레 참치 (FOOD_CD: P120-113060000-0034)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0035",
+    "name": "동원참치 가다랑어 2000",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "155.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "430.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 가다랑어 2000 (FOOD_CD: P120-113060000-0035)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0036",
+    "name": "동원참치 스프레드 갈릭마요",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "295.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "23.00",
+        "탄수화물(g)": "13.00",
+        "당류(g)": "11.00",
+        "나트륨(mg)": "690.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "3.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 스프레드 갈릭마요 (FOOD_CD: P120-113060000-0036)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0037",
+    "name": "동원참치 스프레드 체다치즈",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "175.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "14.00",
+        "당류(g)": "13.00",
+        "나트륨(mg)": "660.000",
+        "포화지방산(g)": "20.00",
+        "트랜스지방산(g)": "3.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 스프레드 체다치즈 (FOOD_CD: P120-113060000-0037)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0038",
+    "name": "바다품은 OSF 고추참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "115.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "8.00",
+        "당류(g)": "8.00",
+        "나트륨(mg)": "760.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 고추참치 (FOOD_CD: P120-113060000-0038)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0039",
+    "name": "바다품은 OSF 살코기참치F",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "183.000",
+        "단백질(g)": "23.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.15",
+        "당류(g)": "0.10",
+        "나트륨(mg)": "471.000",
+        "포화지방산(g)": "42.25",
+        "트랜스지방산(g)": "1.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 살코기참치F (FOOD_CD: P120-113060000-0039)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0040",
+    "name": "바다품은 OSF 살코기참치LS",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "16.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "2.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 살코기참치LS (FOOD_CD: P120-113060000-0040)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0043",
+    "name": "삼포참치 살코기 2000",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "141.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "288.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 삼포참치 살코기 2000 (FOOD_CD: P120-113060000-0043)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0044",
+    "name": "홈플러스 시그니처 고추참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "120.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "3.00",
+        "탄수화물(g)": "11.00",
+        "당류(g)": "10.00",
+        "나트륨(mg)": "880.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "0.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 홈플러스 시그니처 고추참치 (FOOD_CD: P120-113060000-0044)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0045",
+    "name": "홈플러스 시그니처 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "14.80",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "260.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 홈플러스 시그니처 살코기참치 (FOOD_CD: P120-113060000-0045)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0046",
+    "name": "고소한 참기름 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "175.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "780.000",
+        "포화지방산(g)": "65.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소한 참기름 참치 (FOOD_CD: P120-113060000-0046)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0047",
+    "name": "골드마요참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "258.000",
+        "단백질(g)": "11.58",
+        "지방(g)": "22.11",
+        "탄수화물(g)": "3.16",
+        "당류(g)": "3.16",
+        "나트륨(mg)": "505.000",
+        "포화지방산(g)": "42.10",
+        "트랜스지방산(g)": "4.63"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 골드마요참치 (FOOD_CD: P120-113060000-0047)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0048",
+    "name": "다이닝프렌즈 참치",
+    "brand": "농업회사법인주식회사정푸드코리아",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "164.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "368.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 다이닝프렌즈 참치 (FOOD_CD: P120-113060000-0048)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0049",
+    "name": "다이닝프렌즈 참치 2000",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "164.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "368.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 다이닝프렌즈 참치 2000 (FOOD_CD: P120-113060000-0049)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0050",
+    "name": "동원참치 가다랑어 2000(파우치)",
+    "brand": "(주)동원에프앤비",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "155.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "430.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치 가다랑어 2000(파우치) (FOOD_CD: P120-113060000-0050)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0051",
+    "name": "매콤마라참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "147.000",
+        "단백질(g)": "9.47",
+        "지방(g)": "8.42",
+        "탄수화물(g)": "8.42",
+        "당류(g)": "8.42",
+        "나트륨(mg)": "874.000",
+        "포화지방산(g)": "26.32",
+        "트랜스지방산(g)": "1.79"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 매콤마라참치 (FOOD_CD: P120-113060000-0051)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0052",
+    "name": "목우촌참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "105.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "4.30",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "530.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 목우촌참치 (FOOD_CD: P120-113060000-0052)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0053",
+    "name": "못난이참치회",
+    "brand": "주식회사 젠프",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "108.000",
+        "단백질(g)": "23.38",
+        "지방(g)": "0.95",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "37.00",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "0.24"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 못난이참치회 (FOOD_CD: P120-113060000-0053)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0054",
+    "name": "바다품은 OSF 담백한 살코기참치B 2kg",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "164.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.80",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "412.000",
+        "포화지방산(g)": "43.50",
+        "트랜스지방산(g)": "0.85"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 담백한 살코기참치B 2kg (FOOD_CD: P120-113060000-0054)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0055",
+    "name": "바다품은 OSF 볶음장참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "240.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "9.00",
+        "당류(g)": "9.00",
+        "나트륨(mg)": "930.000",
+        "포화지방산(g)": "20.00",
+        "트랜스지방산(g)": "2.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 볶음장참치 (FOOD_CD: P120-113060000-0055)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0056",
+    "name": "베스트코 더 맛있는 참치",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "310.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 베스트코 더 맛있는 참치 (FOOD_CD: P120-113060000-0056)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0057",
+    "name": "사조살코기참치 95g",
+    "brand": "사조산업㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "284.000",
+        "단백질(g)": "21.05",
+        "지방(g)": "22.11",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "358.000",
+        "포화지방산(g)": "47.37",
+        "트랜스지방산(g)": "1.79"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기참치 95g (FOOD_CD: P120-113060000-0057)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0058",
+    "name": "살코기참치P",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "183.000",
+        "단백질(g)": "23.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.15",
+        "당류(g)": "0.10",
+        "나트륨(mg)": "471.000",
+        "포화지방산(g)": "42.25",
+        "트랜스지방산(g)": "1.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치P (FOOD_CD: P120-113060000-0058)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0059",
+    "name": "쌈장 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "140.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "6.00",
+        "나트륨(mg)": "950.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 쌈장 참치 (FOOD_CD: P120-113060000-0059)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0060",
+    "name": "옛날참기름참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "163.000",
+        "단백질(g)": "10.53",
+        "지방(g)": "10.53",
+        "탄수화물(g)": "6.32",
+        "당류(g)": "6.32",
+        "나트륨(mg)": "789.000",
+        "포화지방산(g)": "26.32",
+        "트랜스지방산(g)": "1.47"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 옛날참기름참치 (FOOD_CD: P120-113060000-0060)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0061",
+    "name": "오뚜기살코기참치2000",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "166.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "460.000",
+        "포화지방산(g)": "60.00",
+        "트랜스지방산(g)": "1.85"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오뚜기살코기참치2000 (FOOD_CD: P120-113060000-0061)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0062",
+    "name": "강다짐 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "160.000",
+        "단백질(g)": "21.85",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "0.05",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "569.000",
+        "포화지방산(g)": "56.25",
+        "트랜스지방산(g)": "1.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 강다짐 살코기참치 (FOOD_CD: P120-113060000-0062)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0063",
+    "name": "고소한 살코기 참치",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "189.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "0.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "445.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 고소한 살코기 참치 (FOOD_CD: P120-113060000-0063)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0064",
+    "name": "동원 MSC인증 가다랑어 사용 참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "155.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "9.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "430.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 MSC인증 가다랑어 사용 참치 (FOOD_CD: P120-113060000-0064)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0065",
+    "name": "동원 갈비참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "125.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "12.00",
+        "당류(g)": "12.00",
+        "나트륨(mg)": "1,110.000",
+        "포화지방산(g)": "15.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 갈비참치 (FOOD_CD: P120-113060000-0065)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0066",
+    "name": "바다품은 OSF 살코기참치S",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "470.000",
+        "포화지방산(g)": "46.00",
+        "트랜스지방산(g)": "4.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 살코기참치S (FOOD_CD: P120-113060000-0066)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0067",
+    "name": "사조 담백한 살코기참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "254.000",
+        "단백질(g)": "18.00",
+        "지방(g)": "19.33",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "380.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 담백한 살코기참치 (FOOD_CD: P120-113060000-0067)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0068",
+    "name": "삼포참치",
+    "brand": "농업회사법인주식회사정푸드코리아",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "170.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 삼포참치 (FOOD_CD: P120-113060000-0068)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0069",
+    "name": "식자재왕 담백한참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "185.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "11.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "283.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "1.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 식자재왕 담백한참치 (FOOD_CD: P120-113060000-0069)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0070",
+    "name": "자연드림 통참치(파우치)",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "220.000",
+        "단백질(g)": "20.95",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "0.35",
+        "당류(g)": "0.15",
+        "나트륨(mg)": "320.000",
+        "포화지방산(g)": "62.75",
+        "트랜스지방산(g)": "2.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 자연드림 통참치(파우치) (FOOD_CD: P120-113060000-0070)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0071",
+    "name": "퍼시피카튜나 고추참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "119.000",
+        "단백질(g)": "14.81",
+        "지방(g)": "3.04",
+        "탄수화물(g)": "8.15",
+        "당류(g)": "8.15",
+        "나트륨(mg)": "704.000",
+        "포화지방산(g)": "25.93",
+        "트랜스지방산(g)": "0.52"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 퍼시피카튜나 고추참치 (FOOD_CD: P120-113060000-0071)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0072",
+    "name": "MSC살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "183.000",
+        "단백질(g)": "23.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.15",
+        "당류(g)": "0.10",
+        "나트륨(mg)": "471.000",
+        "포화지방산(g)": "42.25",
+        "트랜스지방산(g)": "1.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - MSC살코기참치 (FOOD_CD: P120-113060000-0072)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0073",
+    "name": "동원델큐브참치덕용",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "120.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "450.000",
+        "포화지방산(g)": "21.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원델큐브참치덕용 (FOOD_CD: P120-113060000-0073)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0074",
+    "name": "동원참치살코기",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "430.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원참치살코기 (FOOD_CD: P120-113060000-0074)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0075",
+    "name": "라이트 살코기 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "130.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "680.000",
+        "포화지방산(g)": "60.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 라이트 살코기 참치 (FOOD_CD: P120-113060000-0075)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0076",
+    "name": "병아리김밥 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "168.000",
+        "단백질(g)": "18.80",
+        "지방(g)": "10.25",
+        "탄수화물(g)": "0.20",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "442.000",
+        "포화지방산(g)": "53.25",
+        "트랜스지방산(g)": "0.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 병아리김밥 살코기참치 (FOOD_CD: P120-113060000-0076)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0077",
+    "name": "사조 담백한 살코기 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "185.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "340.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 담백한 살코기 참치 (FOOD_CD: P120-113060000-0077)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0078",
+    "name": "사조 담백한 살코기참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "380.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 담백한 살코기참치 (FOOD_CD: P120-113060000-0078)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0079",
+    "name": "사조 담백한 살코기참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "182.000",
+        "단백질(g)": "18.82",
+        "지방(g)": "11.77",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "282.000",
+        "포화지방산(g)": "52.94",
+        "트랜스지방산(g)": "1.06"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 담백한 살코기참치 (FOOD_CD: P120-113060000-0079)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0081",
+    "name": "동원 참치뱃살 깊은 간장맛",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "195.000",
+        "단백질(g)": "13.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "7.00",
+        "나트륨(mg)": "1,270.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "2.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 동원 참치뱃살 깊은 간장맛 (FOOD_CD: P120-113060000-0081)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0082",
+    "name": "드레그참치",
+    "brand": "주식회사도원식품",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "245.000",
+        "단백질(g)": "11.00",
+        "지방(g)": "21.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "80.00",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "4.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 드레그참치 (FOOD_CD: P120-113060000-0082)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0083",
+    "name": "베스트코 더 맛있는 참치 1kg",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "12.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "310.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 베스트코 더 맛있는 참치 1kg (FOOD_CD: P120-113060000-0083)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0084",
+    "name": "불닭 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "160.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "6.00",
+        "탄수화물(g)": "12.00",
+        "당류(g)": "9.00",
+        "나트륨(mg)": "800.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 불닭 참치 (FOOD_CD: P120-113060000-0084)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0085",
+    "name": "불닭마요 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "205.000",
+        "단백질(g)": "13.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "9.00",
+        "당류(g)": "4.00",
+        "나트륨(mg)": "590.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 불닭마요 참치 (FOOD_CD: P120-113060000-0085)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0086",
+    "name": "삼포참치 170",
+    "brand": "농업회사법인주식회사정푸드코리아",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "170.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "410.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 삼포참치 170 (FOOD_CD: P120-113060000-0086)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0087",
+    "name": "올리브유 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "235.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "17.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "325.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "2.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 올리브유 참치 (FOOD_CD: P120-113060000-0087)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0088",
+    "name": "와이낫 살코기 참치",
+    "brand": "주식회사 화남코퍼레이션",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "141.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "5.00",
+        "탄수화물(g)": "4.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "288.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "1.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 와이낫 살코기 참치 (FOOD_CD: P120-113060000-0088)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0089",
+    "name": "자연드림 올리브유 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "203.000",
+        "단백질(g)": "19.33",
+        "지방(g)": "13.33",
+        "탄수화물(g)": "1.33",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "420.000",
+        "포화지방산(g)": "33.34",
+        "트랜스지방산(g)": "2.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 자연드림 올리브유 참치 (FOOD_CD: P120-113060000-0089)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0090",
+    "name": "참치액플러스 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "235.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "17.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "235.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치액플러스 참치 (FOOD_CD: P120-113060000-0090)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0091",
+    "name": "노브스갈라 올리브유 통살참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "150.000",
+        "단백질(g)": "18.67",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "0.67",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "267.000",
+        "포화지방산(g)": "33.34",
+        "트랜스지방산(g)": "1.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 노브스갈라 올리브유 통살참치 (FOOD_CD: P120-113060000-0091)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0092",
+    "name": "녹차 담은 동원참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "180.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "370.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "0.80"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 녹차 담은 동원참치 (FOOD_CD: P120-113060000-0092)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0093",
+    "name": "녹차 담은 동원참치",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "212.000",
+        "단백질(g)": "18.82",
+        "지방(g)": "15.30",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "435.000",
+        "포화지방산(g)": "52.94",
+        "트랜스지방산(g)": "0.94"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 녹차 담은 동원참치 (FOOD_CD: P120-113060000-0093)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0094",
+    "name": "바다품은 OSF 샐러드참치 매콤한맛",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "167.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "11.11",
+        "탄수화물(g)": "7.78",
+        "당류(g)": "7.78",
+        "나트륨(mg)": "478.000",
+        "포화지방산(g)": "38.89",
+        "트랜스지방산(g)": "1.78"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 샐러드참치 매콤한맛 (FOOD_CD: P120-113060000-0094)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0095",
+    "name": "바다품은 OSF 샐러드참치 오리지널맛",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "192.000",
+        "단백질(g)": "7.78",
+        "지방(g)": "14.45",
+        "탄수화물(g)": "7.78",
+        "당류(g)": "7.78",
+        "나트륨(mg)": "517.000",
+        "포화지방산(g)": "41.67",
+        "트랜스지방산(g)": "2.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 바다품은 OSF 샐러드참치 오리지널맛 (FOOD_CD: P120-113060000-0095)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0096",
+    "name": "사조살코기참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "244.000",
+        "단백질(g)": "19.41",
+        "지방(g)": "17.65",
+        "탄수화물(g)": "1.77",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "244.000",
+        "포화지방산(g)": "29.41",
+        "트랜스지방산(g)": "1.77"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기참치 안심따개 (FOOD_CD: P120-113060000-0096)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0097",
+    "name": "살코기 동원참치 참치액 ADDED",
+    "brand": "삼진물산㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "218.000",
+        "단백질(g)": "18.82",
+        "지방(g)": "15.30",
+        "탄수화물(g)": "1.18",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "435.000",
+        "포화지방산(g)": "52.94",
+        "트랜스지방산(g)": "1.29"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 동원참치 참치액 ADDED (FOOD_CD: P120-113060000-0097)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0098",
+    "name": "살코기참치 인 워터",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "101.000",
+        "단백질(g)": "20.67",
+        "지방(g)": "2.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "247.000",
+        "포화지방산(g)": "46.67",
+        "트랜스지방산(g)": "0.33"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 인 워터 (FOOD_CD: P120-113060000-0098)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0099",
+    "name": "참치 순살 필렛",
+    "brand": "청정남해주식회사",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "127.000",
+        "단백질(g)": "25.90",
+        "지방(g)": "1.80",
+        "탄수화물(g)": "0.30",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "44.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치 순살 필렛 (FOOD_CD: P120-113060000-0099)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0100",
+    "name": "남태평양 프리미엄 참치",
+    "brand": "NINGBOTODAYFOODCO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "중국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "181.000",
+        "단백질(g)": "14.60",
+        "지방(g)": "13.10",
+        "탄수화물(g)": "1.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "187.000",
+        "포화지방산(g)": "20.50",
+        "트랜스지방산(g)": "1.98"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 남태평양 프리미엄 참치 (FOOD_CD: P120-113060000-0100)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0101",
+    "name": "남태평양 프리미엄 참치 1000G",
+    "brand": "NINGBOTODAYFOODCO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "중국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "181.000",
+        "단백질(g)": "14.60",
+        "지방(g)": "13.10",
+        "탄수화물(g)": "1.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "187.000",
+        "포화지방산(g)": "20.50",
+        "트랜스지방산(g)": "1.98"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 남태평양 프리미엄 참치 1000G (FOOD_CD: P120-113060000-0101)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0102",
+    "name": "델가 바로 쓰는 간편한 참치",
+    "brand": "A.E.C.CANNINGCO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "285.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "21.00",
+        "탄수화물(g)": "7.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "325.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "3.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 델가 바로 쓰는 간편한 참치 (FOOD_CD: P120-113060000-0102)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0103",
+    "name": "마레블루 멕시칸 참치샐러드",
+    "brand": "EUROPEANSEAFOODINVESTMENTSPORTUGAL,S.A",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "포르투갈",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "298.000",
+        "단백질(g)": "23.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "29.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "800.000",
+        "포화지방산(g)": "30.90",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 마레블루 멕시칸 참치샐러드 (FOOD_CD: P120-113060000-0103)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0104",
+    "name": "마레블루 엑스트라버진 올리브오일 참치캔",
+    "brand": "INDIANOCEANTUNALIMITED",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "124.000",
+        "단백질(g)": "13.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "100.000",
+        "포화지방산(g)": "23.40",
+        "트랜스지방산(g)": "1.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 마레블루 엑스트라버진 올리브오일 참치캔 (FOOD_CD: P120-113060000-0104)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0105",
+    "name": "마레블루 지중해 참치 샐러드",
+    "brand": "EUROPEANSEAFOODINVESTMENTSPORTUGAL,S.A",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "포르투갈",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "338.000",
+        "단백질(g)": "23.00",
+        "지방(g)": "14.00",
+        "탄수화물(g)": "30.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "640.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "1.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 마레블루 지중해 참치 샐러드 (FOOD_CD: P120-113060000-0105)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0107",
+    "name": "사조참치 살코기 1.8KG",
+    "brand": "TUNAVIETNAMCO.,LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "295.000",
+        "단백질(g)": "9.00",
+        "지방(g)": "20.00",
+        "탄수화물(g)": "20.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "350.000",
+        "포화지방산(g)": "35.00",
+        "트랜스지방산(g)": "2.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조참치 살코기 1.8KG (FOOD_CD: P120-113060000-0107)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0108",
+    "name": "살코기 참치",
+    "brand": "CANNINGFACTORY-SPECIALAQUATICPRODUCTSJOINTSTOCKCOMPANY",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "230.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "17.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "355.000",
+        "포화지방산(g)": "25.00",
+        "트랜스지방산(g)": "2.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 참치 (FOOD_CD: P120-113060000-0108)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0109",
+    "name": "살코기 참치",
+    "brand": "TRINITYVIETNAMCO.,LTD.-SECTIONII(TRIVN-SII)",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "195.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "14.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "130.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "2.50"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 참치 (FOOD_CD: P120-113060000-0109)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0110",
+    "name": "살코기참치",
+    "brand": "RONGCHENGHAIZHIRUNAQUATICFOODSCO.,LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "중국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "145.000",
+        "단백질(g)": "21.10",
+        "지방(g)": "6.70",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "652.000",
+        "포화지방산(g)": "31.00",
+        "트랜스지방산(g)": "0.64"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 (FOOD_CD: P120-113060000-0110)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0111",
+    "name": "살코기참치 파우치",
+    "brand": "TRINITYVIETNAMCO.,LTD.-SECTIONII(TRIVN-SII)",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "264.000",
+        "단백질(g)": "21.00",
+        "지방(g)": "20.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "947.000",
+        "포화지방산(g)": "47.00",
+        "트랜스지방산(g)": "13.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 파우치 (FOOD_CD: P120-113060000-0111)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0112",
+    "name": "에브리푸드 살코기 참치",
+    "brand": "B.P.S.INTER-TRADE(1995)CO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "202.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "14.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "395.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "1.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 에브리푸드 살코기 참치 (FOOD_CD: P120-113060000-0112)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0113",
+    "name": "엑스트라 버진 올리브오일 참치 (195g)",
+    "brand": "BOLTON FOOD S.P.A.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "210.000",
+        "단백질(g)": "12.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "257.000",
+        "포화지방산(g)": "22.00",
+        "트랜스지방산(g)": "2.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 엑스트라 버진 올리브오일 참치 (195g) (FOOD_CD: P120-113060000-0113)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0114",
+    "name": "인살라티씨메 참치샐러드 옥수수",
+    "brand": "BOLTON FOOD S.P.A.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "285.000",
+        "단백질(g)": "14.00",
+        "지방(g)": "21.00",
+        "탄수화물(g)": "10.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "770.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "3.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 인살라티씨메 참치샐러드 옥수수 (FOOD_CD: P120-113060000-0114)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0115",
+    "name": "참치살코기 라이트 (1830g* 6ea)",
+    "brand": "SPECIALAQUATICPRODUCTSJOINTSTOCKCOMPANY",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "113.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "4.10",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "120.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치살코기 라이트 (1830g* 6ea) (FOOD_CD: P120-113060000-0115)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0120",
+    "name": "커클랜드 시그니춰 참치",
+    "brand": "CHOTIWATMANUFACTURINGPUBLICCOMPANYLIMITED",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "162.000",
+        "단백질(g)": "40.50",
+        "지방(g)": "0.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "535.000",
+        "포화지방산(g)": "82.80",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 커클랜드 시그니춰 참치 (FOOD_CD: P120-113060000-0120)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0121",
+    "name": "크림과 대파 브르타뉴 스타일 참치(황다랑어 40% 유크림10% 대파6% 함유)",
+    "brand": "SOCIETEJEANFRANCOISFURIC",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "프랑스",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "144.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "7.60",
+        "탄수화물(g)": "2.70",
+        "당류(g)": "2.10",
+        "나트륨(mg)": "700.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "3.70"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 크림과 대파 브르타뉴 스타일 참치(황다랑어 40% 유크림10% 대파6% 함유) (FOOD_CD: P120-113060000-0121)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0122",
+    "name": "트루델 담백한 살코기 참치",
+    "brand": "THAIUNIONMANUFACTURINGCO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "300.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "25.00",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "4.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 트루델 담백한 살코기 참치 (FOOD_CD: P120-113060000-0122)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0123",
+    "name": "파우치 참치",
+    "brand": "TUNAVIETNAMCO.,LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "242.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "3.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "330.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "3.20"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 파우치 참치 (FOOD_CD: P120-113060000-0123)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0124",
+    "name": "매코매요 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "158.000",
+        "단백질(g)": "9.47",
+        "지방(g)": "9.47",
+        "탄수화물(g)": "8.42",
+        "당류(g)": "8.42",
+        "나트륨(mg)": "642.000",
+        "포화지방산(g)": "47.37",
+        "트랜스지방산(g)": "1.68"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 매코매요 참치 (FOOD_CD: P120-113060000-0124)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0125",
+    "name": "살코기참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "240.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "18.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "470.000",
+        "포화지방산(g)": "45.00",
+        "트랜스지방산(g)": "2.10"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 안심따개 (FOOD_CD: P120-113060000-0125)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0126",
+    "name": "순살참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "147.000",
+        "단백질(g)": "17.65",
+        "지방(g)": "8.24",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "447.000",
+        "포화지방산(g)": "52.94",
+        "트랜스지방산(g)": "1.18"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 순살참치 (FOOD_CD: P120-113060000-0126)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0127",
+    "name": "청양마요 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "142.000",
+        "단백질(g)": "8.42",
+        "지방(g)": "9.47",
+        "탄수화물(g)": "6.32",
+        "당류(g)": "5.26",
+        "나트륨(mg)": "484.000",
+        "포화지방산(g)": "42.10",
+        "트랜스지방산(g)": "1.68"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 청양마요 참치 (FOOD_CD: P120-113060000-0127)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0129",
+    "name": "피크닉 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "132.000",
+        "단백질(g)": "8.42",
+        "지방(g)": "7.37",
+        "탄수화물(g)": "8.42",
+        "당류(g)": "8.42",
+        "나트륨(mg)": "389.000",
+        "포화지방산(g)": "26.32",
+        "트랜스지방산(g)": "1.26"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 피크닉 참치 (FOOD_CD: P120-113060000-0129)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0130",
+    "name": "참치 살코기",
+    "brand": "SPECIALAQUATICPRODUCTSJOINTSTOCKCOMPANY",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "19.04",
+        "지방(g)": "19.28",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "80.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.74"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치 살코기 (FOOD_CD: P120-113060000-0130)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0131",
+    "name": "화미 참치 살코기",
+    "brand": "HALONG CANFOCO- DANANG COMPANY LIMITED",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "113.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "4.10",
+        "탄수화물(g)": "2.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "120.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "0.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 화미 참치 살코기 (FOOD_CD: P120-113060000-0131)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0132",
+    "name": "사조 살코기 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "223.000",
+        "단백질(g)": "19.50",
+        "지방(g)": "16.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "365.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.25"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 살코기 참치 (FOOD_CD: P120-113060000-0132)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0133",
+    "name": "사조 황다랑어 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "207.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "14.07",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "222.000",
+        "포화지방산(g)": "44.44",
+        "트랜스지방산(g)": "1.04"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 황다랑어 참치 (FOOD_CD: P120-113060000-0133)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0134",
+    "name": "올리브오일 황다랑어 동원참치",
+    "brand": "㈜동원F&B",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "215.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "15.00",
+        "탄수화물(g)": "0.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "430.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "2.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 올리브오일 황다랑어 동원참치 (FOOD_CD: P120-113060000-0134)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0137",
+    "name": "IL FARO 참치 필레(다랑어70%함유)",
+    "brand": "CAVATAIO PAOLO S.R.L.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "383.000",
+        "단백질(g)": "18.30",
+        "지방(g)": "34.30",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "1,500.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "5.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - IL FARO 참치 필레(다랑어70%함유) (FOOD_CD: P120-113060000-0137)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0138",
+    "name": "OSF 마일드참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "140.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "640.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - OSF 마일드참치 (FOOD_CD: P120-113060000-0138)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0139",
+    "name": "OSF 살코기참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "200.000",
+        "단백질(g)": "16.00",
+        "지방(g)": "13.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "530.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "2.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - OSF 살코기참치 (FOOD_CD: P120-113060000-0139)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0140",
+    "name": "그린 커리 참치",
+    "brand": "THAI UNION MANUFACTURING CO., LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "144.000",
+        "단백질(g)": "13.51",
+        "지방(g)": "8.11",
+        "탄수화물(g)": "4.32",
+        "당류(g)": "0.41",
+        "식이섬유(g)": "3.80",
+        "나트륨(mg)": "459.000",
+        "포화지방산(g)": "18.92",
+        "트랜스지방산(g)": "5.95"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 그린 커리 참치 (FOOD_CD: P120-113060000-0140)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0143",
+    "name": "살코기참치",
+    "brand": "신진물산주식회사",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "193.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "12.67",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "527.000",
+        "포화지방산(g)": "43.34",
+        "트랜스지방산(g)": "4.67"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치 (FOOD_CD: P120-113060000-0143)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0146",
+    "name": "올리브유 야채 참치",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "160.000",
+        "단백질(g)": "17.00",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "310.000",
+        "포화지방산(g)": "30.00",
+        "트랜스지방산(g)": "1.30"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 올리브유 야채 참치 (FOOD_CD: P120-113060000-0146)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0147",
+    "name": "참치 살코기 B",
+    "brand": "HALONG CANFOCO- DANANG COMPANY LIMITED",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "190.000",
+        "단백질(g)": "29.00",
+        "지방(g)": "8.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "400.000",
+        "포화지방산(g)": "60.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치 살코기 B (FOOD_CD: P120-113060000-0147)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0148",
+    "name": "프리미엄 남태양 참치",
+    "brand": "GUANGDONG EAGLE COIN HAIBAO FOODS CO.,LTD.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "중국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "177.000",
+        "단백질(g)": "25.90",
+        "지방(g)": "8.10",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "432.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.60"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 프리미엄 남태양 참치 (FOOD_CD: P120-113060000-0148)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0149",
+    "name": "사조 살코기 참치",
+    "brand": "신진물산주식회사",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "223.000",
+        "단백질(g)": "19.50",
+        "지방(g)": "16.00",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "365.000",
+        "포화지방산(g)": "40.00",
+        "트랜스지방산(g)": "1.25"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조 살코기 참치 (FOOD_CD: P120-113060000-0149)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0150",
+    "name": "오늘좋은 고추 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "124.000",
+        "단백질(g)": "11.11",
+        "지방(g)": "4.00",
+        "탄수화물(g)": "11.11",
+        "당류(g)": "9.00",
+        "나트륨(mg)": "767.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오늘좋은 고추 참치 (FOOD_CD: P120-113060000-0150)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0151",
+    "name": "오늘좋은 살코기 참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "222.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "15.56",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "622.000",
+        "포화지방산(g)": "44.44",
+        "트랜스지방산(g)": "1.11"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 오늘좋은 살코기 참치 (FOOD_CD: P120-113060000-0151)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0152",
+    "name": "사조살코기참치 안심따개",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "19.00",
+        "지방(g)": "19.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "450.000",
+        "포화지방산(g)": "50.00",
+        "트랜스지방산(g)": "1.40"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 사조살코기참치 안심따개 (FOOD_CD: P120-113060000-0152)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0153",
+    "name": "살코기참치S",
+    "brand": "사조산업㈜고성공장",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "194.000",
+        "단백질(g)": "20.00",
+        "지방(g)": "12.94",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "482.000",
+        "포화지방산(g)": "41.18",
+        "트랜스지방산(g)": "1.29"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기참치S (FOOD_CD: P120-113060000-0153)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0154",
+    "name": "숯불맛 매콤참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "161.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "10.00",
+        "탄수화물(g)": "8.89",
+        "당류(g)": "7.78",
+        "나트륨(mg)": "678.000",
+        "포화지방산(g)": "22.22",
+        "트랜스지방산(g)": "1.11"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 숯불맛 매콤참치 (FOOD_CD: P120-113060000-0154)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0155",
+    "name": "중화식 야채참치",
+    "brand": "오뚜기에스에프㈜",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "161.000",
+        "단백질(g)": "8.89",
+        "지방(g)": "11.11",
+        "탄수화물(g)": "6.67",
+        "당류(g)": "6.67",
+        "나트륨(mg)": "633.000",
+        "포화지방산(g)": "44.44",
+        "트랜스지방산(g)": "1.22"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 중화식 야채참치 (FOOD_CD: P120-113060000-0155)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0156",
+    "name": "참치살코기   (1830g* 6ea)",
+    "brand": "HALONG CANFOCO- DANANG COMPANY LIMITED",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "베트남",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "250.000",
+        "단백질(g)": "19.04",
+        "지방(g)": "19.28",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "80.00",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.74"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치살코기   (1830g* 6ea) (FOOD_CD: P120-113060000-0156)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0157",
+    "name": "살코기 참치",
+    "brand": "LEVANTFOODPRODUCTSCO.LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "213.000",
+        "단백질(g)": "25.63",
+        "지방(g)": "12.38",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "141.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.13"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 참치 (FOOD_CD: P120-113060000-0157)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-113060000-0158",
+    "name": "살코기 참치 (매운 맛)",
+    "brand": "LEVANTFOODPRODUCTSCO.LTD",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "태국",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "213.000",
+        "단백질(g)": "25.63",
+        "지방(g)": "12.38",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "141.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "1.13"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 살코기 참치 (매운 맛) (FOOD_CD: P120-113060000-0158)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-200020300-0026",
+    "name": "참치액젓",
+    "brand": "유한회사씨제이젓갈시스템",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "31.00",
+        "단백질(g)": "3.00",
+        "지방(g)": "0.00",
+        "탄수화물(g)": "5.00",
+        "당류(g)": "3.00",
+        "나트륨(mg)": "7,700.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치액젓 (FOOD_CD: P120-200020300-0026)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-200020300-0062",
+    "name": "참치액젓",
+    "brand": "내고향젓갈",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100mL당",
+      "values": {
+        "열량(kcal)": "64.00",
+        "단백질(g)": "13.00",
+        "지방(g)": "0.00",
+        "탄수화물(g)": "1.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "8,900.000",
+        "포화지방산(g)": "0.00",
+        "트랜스지방산(g)": "0.00"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치액젓 (FOOD_CD: P120-200020300-0062)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-302060000-0087",
+    "name": "참치회(냉동)",
+    "brand": "주식회사신신",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "288.000",
+        "단백질(g)": "19.10",
+        "지방(g)": "19.70",
+        "탄수화물(g)": "11.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "131.000",
+        "포화지방산(g)": "74.50",
+        "트랜스지방산(g)": "3.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치회(냉동) (FOOD_CD: P120-302060000-0087)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-302060000-0088",
+    "name": "참치회(냉장)",
+    "brand": "주식회사신신",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "288.000",
+        "단백질(g)": "19.10",
+        "지방(g)": "19.70",
+        "탄수화물(g)": "11.50",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "131.000",
+        "포화지방산(g)": "74.50",
+        "트랜스지방산(g)": "3.90"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치회(냉장) (FOOD_CD: P120-302060000-0088)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-302060000-0216",
+    "name": "참치모듬회(냉장)B1",
+    "brand": "주식회사신신",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "257.000",
+        "단백질(g)": "19.59",
+        "지방(g)": "19.65",
+        "탄수화물(g)": "0.36",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "46.00",
+        "포화지방산(g)": "73.60",
+        "트랜스지방산(g)": "5.42"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 참치모듬회(냉장)B1 (FOOD_CD: P120-302060000-0216)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-402040000-0134",
+    "name": "김도둑 참치 돌자반",
+    "brand": "(주)김앤김",
+    "country": "KR",
+    "category": "tuna-can",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "574.000",
+        "단백질(g)": "13.83",
+        "지방(g)": "42.72",
+        "탄수화물(g)": "33.62",
+        "당류(g)": "8.06",
+        "나트륨(mg)": "1,907.000",
+        "포화지방산(g)": "7.44",
+        "트랜스지방산(g)": "6.48"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: N",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 김도둑 참치 돌자반 (FOOD_CD: P120-402040000-0134)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-600060000-0004",
+    "name": "올리브오일 참치",
+    "brand": "BOLTON FOOD S.P.A.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "402.000",
+        "단백질(g)": "17.50",
+        "지방(g)": "36.88",
+        "탄수화물(g)": "0.00",
+        "당류(g)": "0.00",
+        "나트륨(mg)": "440.000",
+        "포화지방산(g)": "37.50",
+        "트랜스지방산(g)": "5.63"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 올리브오일 참치 (FOOD_CD: P120-600060000-0004)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-600060000-0005",
+    "name": "인살라티씨메 참치샐러드 멕시카나",
+    "brand": "BOLTON FOOD S.P.A.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "193.000",
+        "단백질(g)": "10.00",
+        "지방(g)": "13.13",
+        "탄수화물(g)": "8.75",
+        "당류(g)": "1.88",
+        "나트륨(mg)": "481.000",
+        "포화지방산(g)": "18.75",
+        "트랜스지방산(g)": "1.88"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 인살라티씨메 참치샐러드 멕시카나 (FOOD_CD: P120-600060000-0005)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  },
+  {
+    "id": "draft-P120-600060000-0006",
+    "name": "인살라티씨메 참치샐러드 옥수수",
+    "brand": "BOLTON FOOD S.P.A.",
+    "country": "KR",
+    "category": "tuna-can",
+    "origin": "이탈리아",
+    "nutrition": {
+      "basis": "100g당",
+      "values": {
+        "열량(kcal)": "178.000",
+        "단백질(g)": "8.75",
+        "지방(g)": "13.13",
+        "탄수화물(g)": "6.25",
+        "당류(g)": "1.88",
+        "나트륨(mg)": "481.000",
+        "포화지방산(g)": "18.75",
+        "트랜스지방산(g)": "1.88"
+      }
+    },
+    "notes": [
+      "식약처 식품영양성분DB(FoodNtrCpntDbInfo02) 자동 수집 - 인증/수상 등 차별점 정보는 없음, 별도로 채워야 함",
+      "수입여부: Y",
+      "원 출처 표기: 식품의약품안전처"
+    ],
+    "sources": [
+      {
+        "title": "식약처 식품영양성분DB - 인살라티씨메 참치샐러드 옥수수 (FOOD_CD: P120-600060000-0006)",
+        "url": "https://www.data.go.kr/data/15127578/openapi.do",
+        "checkedAt": "2026-08-20"
+      }
+    ],
+    "lastVerified": "2026-08-20",
+    "needsVerification": true
+  }
+]

@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: mart-compare-mcp
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: FOODSAFETY_API_KEY
+        sync: false
+      - key: NAVER_SHOPPING_CLIENT_ID
+        sync: false
+      - key: NAVER_SHOPPING_CLIENT_SECRET
+        sync: false
+      - key: RAKUTEN_APP_ID
+        sync: false

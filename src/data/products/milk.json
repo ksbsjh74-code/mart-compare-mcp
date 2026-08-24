@@ -1,0 +1,31 @@
+[
+  {
+    "id": "jp-milk-meiji-oishii",
+    "name": "明治おいしい牛乳 (메이지 오이시이 규뉴)",
+    "brand": "明治 (Meiji)",
+    "country": "JP",
+    "category": "milk",
+    "origin": "일본 국내산 원유",
+    "notes": [
+      "성분무조정(成分無調整) 우유 - 유지방분 등을 조정하지 않은 원유 그대로 살균",
+      "정확한 살균 방식(온도/시간), 지방함량 수치는 공식 제품 페이지로 재확인 필요"
+    ],
+    "sources": [],
+    "lastVerified": "2026-08-21",
+    "needsVerification": true
+  },
+  {
+    "id": "kr-milk-seoul-milk",
+    "name": "서울우유 나 100%",
+    "brand": "서울우유협동조합",
+    "country": "KR",
+    "category": "milk",
+    "origin": "국내산 원유",
+    "notes": [
+      "구체적 원유 등급, 살균방식(저온/초고온) 수치는 공식 제품 페이지로 재확인 필요"
+    ],
+    "sources": [],
+    "lastVerified": "2026-08-21",
+    "needsVerification": true
+  }
+]
